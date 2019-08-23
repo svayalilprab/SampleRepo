@@ -1,0 +1,36 @@
+<html>
+    <body>
+    
+        <h1>What now?</h1>
+    
+        <p>First of all, thank you for using the Blank API microservice chassis!</p>
+        
+        <p>The Argo Core Dev team welcomes your feedback so please feel free to post your thoughts,
+        questions and requests in the <b>core-dev Slack channel</b>.</p>
+
+        <p>You now have a runnable microservice containing all of the boiler plate code needed
+        to bootsrap the enterprise logging, error handling and web API components, and allow app settings to
+        be overidden by the Argo build / deployment "pipeline", but there are a few things that you should do 
+        before building upon this chassis:</p>
+
+        <b><i>Note that if you do not follow these instructions your microservice may not build and/or deploy 
+        correctly within the Argo "pipeline" and it will likely be difficult to support when in the production.</i></b>
+    
+        <p>1. Search for all instances of %%% in the source code and follow the instructions provided next to
+        each occurence.
+
+        <p>2. Right-click on the DXC.LM.Core.ReferenceDataAPI.Endpoints project and select "Manage User Secrets" to create
+        your own personal version of the appSettings.json.
+
+        <p>3. Read the readme files for each of the 3 Argo enterprise NuGet packages that have been installed:</p>
+
+        <ul>
+            <li>Logging components at: <a target="_blank" href="https://github.dxc.com/lm/sdk-logging">https://github.dxc.com/lm/sdk-logging</a></li>
+            <li>Error Handling components at: <a target="_blank" href="https://github.dxc.com/lm/sdk-errorhandling">https://github.dxc.com/lm/sdk-errorhandling</a></li>
+            <li>Web API components at: <a target="_blank" href="https://github.dxc.com/lm/sdk-webapi">https://github.dxc.com/lm/sdk-webapi</a></li>
+        </ul>
+
+        <p>HAPPY CODING ;-)</p>
+
+</body>
+</html>

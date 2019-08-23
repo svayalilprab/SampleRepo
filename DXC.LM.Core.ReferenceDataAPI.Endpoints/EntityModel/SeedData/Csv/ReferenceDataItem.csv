@@ -1,0 +1,2451 @@
+1,Country:name,AFG,Afghanistan
+2,Country:alpha-2,AFG,AF
+3,Country:alpha-3,AFG,AFG
+4,Country:country-code,AFG,004
+5,Country:iso_3166-2,AFG,ISO 3166-2:AF
+6,Country:region,AFG,Asia
+7,Country:sub-region,AFG,Southern Asia
+8,Country:region-code,AFG,142
+9,Country:sub-region-code,AFG,034
+10,Country:name,ALA,Åland Islands
+11,Country:alpha-2,ALA,AX
+12,Country:alpha-3,ALA,ALA
+13,Country:country-code,ALA,248
+14,Country:iso_3166-2,ALA,ISO 3166-2:AX
+15,Country:region,ALA,Europe
+16,Country:sub-region,ALA,Northern Europe
+17,Country:region-code,ALA,150
+18,Country:sub-region-code,ALA,154
+19,Country:name,ALB,Albania
+20,Country:alpha-2,ALB,AL
+21,Country:alpha-3,ALB,ALB
+22,Country:country-code,ALB,008
+23,Country:iso_3166-2,ALB,ISO 3166-2:AL
+24,Country:region,ALB,Europe
+25,Country:sub-region,ALB,Southern Europe
+26,Country:region-code,ALB,150
+27,Country:sub-region-code,ALB,039
+28,Country:name,DZA,Algeria
+29,Country:alpha-2,DZA,DZ
+30,Country:alpha-3,DZA,DZA
+31,Country:country-code,DZA,012
+32,Country:iso_3166-2,DZA,ISO 3166-2:DZ
+33,Country:region,DZA,Africa
+34,Country:sub-region,DZA,Northern Africa
+35,Country:region-code,DZA,002
+36,Country:sub-region-code,DZA,015
+37,Country:name,ASM,American Samoa
+38,Country:alpha-2,ASM,AS
+39,Country:alpha-3,ASM,ASM
+40,Country:country-code,ASM,016
+41,Country:iso_3166-2,ASM,ISO 3166-2:AS
+42,Country:region,ASM,Oceania
+43,Country:sub-region,ASM,Polynesia
+44,Country:region-code,ASM,009
+45,Country:sub-region-code,ASM,061
+46,Country:name,AND,Andorra
+47,Country:alpha-2,AND,AD
+48,Country:alpha-3,AND,AND
+49,Country:country-code,AND,020
+50,Country:iso_3166-2,AND,ISO 3166-2:AD
+51,Country:region,AND,Europe
+52,Country:sub-region,AND,Southern Europe
+53,Country:region-code,AND,150
+54,Country:sub-region-code,AND,039
+55,Country:name,AGO,Angola
+56,Country:alpha-2,AGO,AO
+57,Country:alpha-3,AGO,AGO
+58,Country:country-code,AGO,024
+59,Country:iso_3166-2,AGO,ISO 3166-2:AO
+60,Country:region,AGO,Africa
+61,Country:sub-region,AGO,Sub-Saharan Africa
+62,Country:intermediate-region,AGO,Middle Africa
+63,Country:region-code,AGO,002
+64,Country:sub-region-code,AGO,202
+65,Country:intermediate-region-code,AGO,017
+66,Country:name,AIA,Anguilla
+67,Country:alpha-2,AIA,AI
+68,Country:alpha-3,AIA,AIA
+69,Country:country-code,AIA,660
+70,Country:iso_3166-2,AIA,ISO 3166-2:AI
+71,Country:region,AIA,Americas
+72,Country:sub-region,AIA,Latin America and the Caribbean
+73,Country:intermediate-region,AIA,Caribbean
+74,Country:region-code,AIA,019
+75,Country:sub-region-code,AIA,419
+76,Country:intermediate-region-code,AIA,029
+77,Country:name,ATA,Antarctica
+78,Country:alpha-2,ATA,AQ
+79,Country:alpha-3,ATA,ATA
+80,Country:country-code,ATA,010
+81,Country:iso_3166-2,ATA,ISO 3166-2:AQ
+82,Country:name,ATG,Antigua and Barbuda
+83,Country:alpha-2,ATG,AG
+84,Country:alpha-3,ATG,ATG
+85,Country:country-code,ATG,028
+86,Country:iso_3166-2,ATG,ISO 3166-2:AG
+87,Country:region,ATG,Americas
+88,Country:sub-region,ATG,Latin America and the Caribbean
+89,Country:intermediate-region,ATG,Caribbean
+90,Country:region-code,ATG,019
+91,Country:sub-region-code,ATG,419
+92,Country:intermediate-region-code,ATG,029
+93,Country:name,ARG,Argentina
+94,Country:alpha-2,ARG,AR
+95,Country:alpha-3,ARG,ARG
+96,Country:country-code,ARG,032
+97,Country:iso_3166-2,ARG,ISO 3166-2:AR
+98,Country:region,ARG,Americas
+99,Country:sub-region,ARG,Latin America and the Caribbean
+100,Country:intermediate-region,ARG,South America
+101,Country:region-code,ARG,019
+102,Country:sub-region-code,ARG,419
+103,Country:intermediate-region-code,ARG,005
+104,Country:name,ARM,Armenia
+105,Country:alpha-2,ARM,AM
+106,Country:alpha-3,ARM,ARM
+107,Country:country-code,ARM,051
+108,Country:iso_3166-2,ARM,ISO 3166-2:AM
+109,Country:region,ARM,Asia
+110,Country:sub-region,ARM,Western Asia
+111,Country:region-code,ARM,142
+112,Country:sub-region-code,ARM,145
+113,Country:name,ABW,Aruba
+114,Country:alpha-2,ABW,AW
+115,Country:alpha-3,ABW,ABW
+116,Country:country-code,ABW,533
+117,Country:iso_3166-2,ABW,ISO 3166-2:AW
+118,Country:region,ABW,Americas
+119,Country:sub-region,ABW,Latin America and the Caribbean
+120,Country:intermediate-region,ABW,Caribbean
+121,Country:region-code,ABW,019
+122,Country:sub-region-code,ABW,419
+123,Country:intermediate-region-code,ABW,029
+124,Country:name,AUS,Australia
+125,Country:alpha-2,AUS,AU
+126,Country:alpha-3,AUS,AUS
+127,Country:country-code,AUS,036
+128,Country:iso_3166-2,AUS,ISO 3166-2:AU
+129,Country:region,AUS,Oceania
+130,Country:sub-region,AUS,Australia and New Zealand
+131,Country:region-code,AUS,009
+132,Country:sub-region-code,AUS,053
+133,Country:name,AUT,Austria
+134,Country:alpha-2,AUT,AT
+135,Country:alpha-3,AUT,AUT
+136,Country:country-code,AUT,040
+137,Country:iso_3166-2,AUT,ISO 3166-2:AT
+138,Country:region,AUT,Europe
+139,Country:sub-region,AUT,Western Europe
+140,Country:region-code,AUT,150
+141,Country:sub-region-code,AUT,155
+142,Country:name,AZE,Azerbaijan
+143,Country:alpha-2,AZE,AZ
+144,Country:alpha-3,AZE,AZE
+145,Country:country-code,AZE,031
+146,Country:iso_3166-2,AZE,ISO 3166-2:AZ
+147,Country:region,AZE,Asia
+148,Country:sub-region,AZE,Western Asia
+149,Country:region-code,AZE,142
+150,Country:sub-region-code,AZE,145
+151,Country:name,BHS,Bahamas
+152,Country:alpha-2,BHS,BS
+153,Country:alpha-3,BHS,BHS
+154,Country:country-code,BHS,044
+155,Country:iso_3166-2,BHS,ISO 3166-2:BS
+156,Country:region,BHS,Americas
+157,Country:sub-region,BHS,Latin America and the Caribbean
+158,Country:intermediate-region,BHS,Caribbean
+159,Country:region-code,BHS,019
+160,Country:sub-region-code,BHS,419
+161,Country:intermediate-region-code,BHS,029
+162,Country:name,BHR,Bahrain
+163,Country:alpha-2,BHR,BH
+164,Country:alpha-3,BHR,BHR
+165,Country:country-code,BHR,048
+166,Country:iso_3166-2,BHR,ISO 3166-2:BH
+167,Country:region,BHR,Asia
+168,Country:sub-region,BHR,Western Asia
+169,Country:region-code,BHR,142
+170,Country:sub-region-code,BHR,145
+171,Country:name,BGD,Bangladesh
+172,Country:alpha-2,BGD,BD
+173,Country:alpha-3,BGD,BGD
+174,Country:country-code,BGD,050
+175,Country:iso_3166-2,BGD,ISO 3166-2:BD
+176,Country:region,BGD,Asia
+177,Country:sub-region,BGD,Southern Asia
+178,Country:region-code,BGD,142
+179,Country:sub-region-code,BGD,034
+180,Country:name,BRB,Barbados
+181,Country:alpha-2,BRB,BB
+182,Country:alpha-3,BRB,BRB
+183,Country:country-code,BRB,052
+184,Country:iso_3166-2,BRB,ISO 3166-2:BB
+185,Country:region,BRB,Americas
+186,Country:sub-region,BRB,Latin America and the Caribbean
+187,Country:intermediate-region,BRB,Caribbean
+188,Country:region-code,BRB,019
+189,Country:sub-region-code,BRB,419
+190,Country:intermediate-region-code,BRB,029
+191,Country:name,BLR,Belarus
+192,Country:alpha-2,BLR,BY
+193,Country:alpha-3,BLR,BLR
+194,Country:country-code,BLR,112
+195,Country:iso_3166-2,BLR,ISO 3166-2:BY
+196,Country:region,BLR,Europe
+197,Country:sub-region,BLR,Eastern Europe
+198,Country:region-code,BLR,150
+199,Country:sub-region-code,BLR,151
+200,Country:name,BEL,Belgium
+201,Country:alpha-2,BEL,BE
+202,Country:alpha-3,BEL,BEL
+203,Country:country-code,BEL,056
+204,Country:iso_3166-2,BEL,ISO 3166-2:BE
+205,Country:region,BEL,Europe
+206,Country:sub-region,BEL,Western Europe
+207,Country:region-code,BEL,150
+208,Country:sub-region-code,BEL,155
+209,Country:name,BLZ,Belize
+210,Country:alpha-2,BLZ,BZ
+211,Country:alpha-3,BLZ,BLZ
+212,Country:country-code,BLZ,084
+213,Country:iso_3166-2,BLZ,ISO 3166-2:BZ
+214,Country:region,BLZ,Americas
+215,Country:sub-region,BLZ,Latin America and the Caribbean
+216,Country:intermediate-region,BLZ,Central America
+217,Country:region-code,BLZ,019
+218,Country:sub-region-code,BLZ,419
+219,Country:intermediate-region-code,BLZ,013
+220,Country:name,BEN,Benin
+221,Country:alpha-2,BEN,BJ
+222,Country:alpha-3,BEN,BEN
+223,Country:country-code,BEN,204
+224,Country:iso_3166-2,BEN,ISO 3166-2:BJ
+225,Country:region,BEN,Africa
+226,Country:sub-region,BEN,Sub-Saharan Africa
+227,Country:intermediate-region,BEN,Western Africa
+228,Country:region-code,BEN,002
+229,Country:sub-region-code,BEN,202
+230,Country:intermediate-region-code,BEN,011
+231,Country:name,BMU,Bermuda
+232,Country:alpha-2,BMU,BM
+233,Country:alpha-3,BMU,BMU
+234,Country:country-code,BMU,060
+235,Country:iso_3166-2,BMU,ISO 3166-2:BM
+236,Country:region,BMU,Americas
+237,Country:sub-region,BMU,Northern America
+238,Country:region-code,BMU,019
+239,Country:sub-region-code,BMU,021
+240,Country:name,BTN,Bhutan
+241,Country:alpha-2,BTN,BT
+242,Country:alpha-3,BTN,BTN
+243,Country:country-code,BTN,064
+244,Country:iso_3166-2,BTN,ISO 3166-2:BT
+245,Country:region,BTN,Asia
+246,Country:sub-region,BTN,Southern Asia
+247,Country:region-code,BTN,142
+248,Country:sub-region-code,BTN,034
+249,Country:name,BOL,Bolivia (Plurinational State of)
+250,Country:alpha-2,BOL,BO
+251,Country:alpha-3,BOL,BOL
+252,Country:country-code,BOL,068
+253,Country:iso_3166-2,BOL,ISO 3166-2:BO
+254,Country:region,BOL,Americas
+255,Country:sub-region,BOL,Latin America and the Caribbean
+256,Country:intermediate-region,BOL,South America
+257,Country:region-code,BOL,019
+258,Country:sub-region-code,BOL,419
+259,Country:intermediate-region-code,BOL,005
+260,Country:name,BES,Bonaire, Sint Eustatius and Saba
+261,Country:alpha-2,BES,BQ
+262,Country:alpha-3,BES,BES
+263,Country:country-code,BES,535
+264,Country:iso_3166-2,BES,ISO 3166-2:BQ
+265,Country:region,BES,Americas
+266,Country:sub-region,BES,Latin America and the Caribbean
+267,Country:intermediate-region,BES,Caribbean
+268,Country:region-code,BES,019
+269,Country:sub-region-code,BES,419
+270,Country:intermediate-region-code,BES,029
+271,Country:name,BIH,Bosnia and Herzegovina
+272,Country:alpha-2,BIH,BA
+273,Country:alpha-3,BIH,BIH
+274,Country:country-code,BIH,070
+275,Country:iso_3166-2,BIH,ISO 3166-2:BA
+276,Country:region,BIH,Europe
+277,Country:sub-region,BIH,Southern Europe
+278,Country:region-code,BIH,150
+279,Country:sub-region-code,BIH,039
+280,Country:name,BWA,Botswana
+281,Country:alpha-2,BWA,BW
+282,Country:alpha-3,BWA,BWA
+283,Country:country-code,BWA,072
+284,Country:iso_3166-2,BWA,ISO 3166-2:BW
+285,Country:region,BWA,Africa
+286,Country:sub-region,BWA,Sub-Saharan Africa
+287,Country:intermediate-region,BWA,Southern Africa
+288,Country:region-code,BWA,002
+289,Country:sub-region-code,BWA,202
+290,Country:intermediate-region-code,BWA,018
+291,Country:name,BVT,Bouvet Island
+292,Country:alpha-2,BVT,BV
+293,Country:alpha-3,BVT,BVT
+294,Country:country-code,BVT,074
+295,Country:iso_3166-2,BVT,ISO 3166-2:BV
+296,Country:region,BVT,Americas
+297,Country:sub-region,BVT,Latin America and the Caribbean
+298,Country:intermediate-region,BVT,South America
+299,Country:region-code,BVT,019
+300,Country:sub-region-code,BVT,419
+301,Country:intermediate-region-code,BVT,005
+302,Country:name,BRA,Brazil
+303,Country:alpha-2,BRA,BR
+304,Country:alpha-3,BRA,BRA
+305,Country:country-code,BRA,076
+306,Country:iso_3166-2,BRA,ISO 3166-2:BR
+307,Country:region,BRA,Americas
+308,Country:sub-region,BRA,Latin America and the Caribbean
+309,Country:intermediate-region,BRA,South America
+310,Country:region-code,BRA,019
+311,Country:sub-region-code,BRA,419
+312,Country:intermediate-region-code,BRA,005
+313,Country:name,IOT,British Indian Ocean Territory
+314,Country:alpha-2,IOT,IO
+315,Country:alpha-3,IOT,IOT
+316,Country:country-code,IOT,086
+317,Country:iso_3166-2,IOT,ISO 3166-2:IO
+318,Country:region,IOT,Africa
+319,Country:sub-region,IOT,Sub-Saharan Africa
+320,Country:intermediate-region,IOT,Eastern Africa
+321,Country:region-code,IOT,002
+322,Country:sub-region-code,IOT,202
+323,Country:intermediate-region-code,IOT,014
+324,Country:name,BRN,Brunei Darussalam
+325,Country:alpha-2,BRN,BN
+326,Country:alpha-3,BRN,BRN
+327,Country:country-code,BRN,096
+328,Country:iso_3166-2,BRN,ISO 3166-2:BN
+329,Country:region,BRN,Asia
+330,Country:sub-region,BRN,South-eastern Asia
+331,Country:region-code,BRN,142
+332,Country:sub-region-code,BRN,035
+333,Country:name,BGR,Bulgaria
+334,Country:alpha-2,BGR,BG
+335,Country:alpha-3,BGR,BGR
+336,Country:country-code,BGR,100
+337,Country:iso_3166-2,BGR,ISO 3166-2:BG
+338,Country:region,BGR,Europe
+339,Country:sub-region,BGR,Eastern Europe
+340,Country:region-code,BGR,150
+341,Country:sub-region-code,BGR,151
+342,Country:name,BFA,Burkina Faso
+343,Country:alpha-2,BFA,BF
+344,Country:alpha-3,BFA,BFA
+345,Country:country-code,BFA,854
+346,Country:iso_3166-2,BFA,ISO 3166-2:BF
+347,Country:region,BFA,Africa
+348,Country:sub-region,BFA,Sub-Saharan Africa
+349,Country:intermediate-region,BFA,Western Africa
+350,Country:region-code,BFA,002
+351,Country:sub-region-code,BFA,202
+352,Country:intermediate-region-code,BFA,011
+353,Country:name,BDI,Burundi
+354,Country:alpha-2,BDI,BI
+355,Country:alpha-3,BDI,BDI
+356,Country:country-code,BDI,108
+357,Country:iso_3166-2,BDI,ISO 3166-2:BI
+358,Country:region,BDI,Africa
+359,Country:sub-region,BDI,Sub-Saharan Africa
+360,Country:intermediate-region,BDI,Eastern Africa
+361,Country:region-code,BDI,002
+362,Country:sub-region-code,BDI,202
+363,Country:intermediate-region-code,BDI,014
+364,Country:name,CPV,Cabo Verde
+365,Country:alpha-2,CPV,CV
+366,Country:alpha-3,CPV,CPV
+367,Country:country-code,CPV,132
+368,Country:iso_3166-2,CPV,ISO 3166-2:CV
+369,Country:region,CPV,Africa
+370,Country:sub-region,CPV,Sub-Saharan Africa
+371,Country:intermediate-region,CPV,Western Africa
+372,Country:region-code,CPV,002
+373,Country:sub-region-code,CPV,202
+374,Country:intermediate-region-code,CPV,011
+375,Country:name,KHM,Cambodia
+376,Country:alpha-2,KHM,KH
+377,Country:alpha-3,KHM,KHM
+378,Country:country-code,KHM,116
+379,Country:iso_3166-2,KHM,ISO 3166-2:KH
+380,Country:region,KHM,Asia
+381,Country:sub-region,KHM,South-eastern Asia
+382,Country:region-code,KHM,142
+383,Country:sub-region-code,KHM,035
+384,Country:name,CMR,Cameroon
+385,Country:alpha-2,CMR,CM
+386,Country:alpha-3,CMR,CMR
+387,Country:country-code,CMR,120
+388,Country:iso_3166-2,CMR,ISO 3166-2:CM
+389,Country:region,CMR,Africa
+390,Country:sub-region,CMR,Sub-Saharan Africa
+391,Country:intermediate-region,CMR,Middle Africa
+392,Country:region-code,CMR,002
+393,Country:sub-region-code,CMR,202
+394,Country:intermediate-region-code,CMR,017
+395,Country:name,CAN,Canada
+396,Country:alpha-2,CAN,CA
+397,Country:alpha-3,CAN,CAN
+398,Country:country-code,CAN,124
+399,Country:iso_3166-2,CAN,ISO 3166-2:CA
+400,Country:region,CAN,Americas
+401,Country:sub-region,CAN,Northern America
+402,Country:region-code,CAN,019
+403,Country:sub-region-code,CAN,021
+404,Country:name,CYM,Cayman Islands
+405,Country:alpha-2,CYM,KY
+406,Country:alpha-3,CYM,CYM
+407,Country:country-code,CYM,136
+408,Country:iso_3166-2,CYM,ISO 3166-2:KY
+409,Country:region,CYM,Americas
+410,Country:sub-region,CYM,Latin America and the Caribbean
+411,Country:intermediate-region,CYM,Caribbean
+412,Country:region-code,CYM,019
+413,Country:sub-region-code,CYM,419
+414,Country:intermediate-region-code,CYM,029
+415,Country:name,CAF,Central African Republic
+416,Country:alpha-2,CAF,CF
+417,Country:alpha-3,CAF,CAF
+418,Country:country-code,CAF,140
+419,Country:iso_3166-2,CAF,ISO 3166-2:CF
+420,Country:region,CAF,Africa
+421,Country:sub-region,CAF,Sub-Saharan Africa
+422,Country:intermediate-region,CAF,Middle Africa
+423,Country:region-code,CAF,002
+424,Country:sub-region-code,CAF,202
+425,Country:intermediate-region-code,CAF,017
+426,Country:name,TCD,Chad
+427,Country:alpha-2,TCD,TD
+428,Country:alpha-3,TCD,TCD
+429,Country:country-code,TCD,148
+430,Country:iso_3166-2,TCD,ISO 3166-2:TD
+431,Country:region,TCD,Africa
+432,Country:sub-region,TCD,Sub-Saharan Africa
+433,Country:intermediate-region,TCD,Middle Africa
+434,Country:region-code,TCD,002
+435,Country:sub-region-code,TCD,202
+436,Country:intermediate-region-code,TCD,017
+437,Country:name,CHL,Chile
+438,Country:alpha-2,CHL,CL
+439,Country:alpha-3,CHL,CHL
+440,Country:country-code,CHL,152
+441,Country:iso_3166-2,CHL,ISO 3166-2:CL
+442,Country:region,CHL,Americas
+443,Country:sub-region,CHL,Latin America and the Caribbean
+444,Country:intermediate-region,CHL,South America
+445,Country:region-code,CHL,019
+446,Country:sub-region-code,CHL,419
+447,Country:intermediate-region-code,CHL,005
+448,Country:name,CHN,China
+449,Country:alpha-2,CHN,CN
+450,Country:alpha-3,CHN,CHN
+451,Country:country-code,CHN,156
+452,Country:iso_3166-2,CHN,ISO 3166-2:CN
+453,Country:region,CHN,Asia
+454,Country:sub-region,CHN,Eastern Asia
+455,Country:region-code,CHN,142
+456,Country:sub-region-code,CHN,030
+457,Country:name,CXR,Christmas Island
+458,Country:alpha-2,CXR,CX
+459,Country:alpha-3,CXR,CXR
+460,Country:country-code,CXR,162
+461,Country:iso_3166-2,CXR,ISO 3166-2:CX
+462,Country:region,CXR,Oceania
+463,Country:sub-region,CXR,Australia and New Zealand
+464,Country:region-code,CXR,009
+465,Country:sub-region-code,CXR,053
+466,Country:name,CCK,Cocos (Keeling) Islands
+467,Country:alpha-2,CCK,CC
+468,Country:alpha-3,CCK,CCK
+469,Country:country-code,CCK,166
+470,Country:iso_3166-2,CCK,ISO 3166-2:CC
+471,Country:region,CCK,Oceania
+472,Country:sub-region,CCK,Australia and New Zealand
+473,Country:region-code,CCK,009
+474,Country:sub-region-code,CCK,053
+475,Country:name,COL,Colombia
+476,Country:alpha-2,COL,CO
+477,Country:alpha-3,COL,COL
+478,Country:country-code,COL,170
+479,Country:iso_3166-2,COL,ISO 3166-2:CO
+480,Country:region,COL,Americas
+481,Country:sub-region,COL,Latin America and the Caribbean
+482,Country:intermediate-region,COL,South America
+483,Country:region-code,COL,019
+484,Country:sub-region-code,COL,419
+485,Country:intermediate-region-code,COL,005
+486,Country:name,COM,Comoros
+487,Country:alpha-2,COM,KM
+488,Country:alpha-3,COM,COM
+489,Country:country-code,COM,174
+490,Country:iso_3166-2,COM,ISO 3166-2:KM
+491,Country:region,COM,Africa
+492,Country:sub-region,COM,Sub-Saharan Africa
+493,Country:intermediate-region,COM,Eastern Africa
+494,Country:region-code,COM,002
+495,Country:sub-region-code,COM,202
+496,Country:intermediate-region-code,COM,014
+497,Country:name,COG,Congo
+498,Country:alpha-2,COG,CG
+499,Country:alpha-3,COG,COG
+500,Country:country-code,COG,178
+501,Country:iso_3166-2,COG,ISO 3166-2:CG
+502,Country:region,COG,Africa
+503,Country:sub-region,COG,Sub-Saharan Africa
+504,Country:intermediate-region,COG,Middle Africa
+505,Country:region-code,COG,002
+506,Country:sub-region-code,COG,202
+507,Country:intermediate-region-code,COG,017
+508,Country:name,COD,Congo, Democratic Republic of the
+509,Country:alpha-2,COD,CD
+510,Country:alpha-3,COD,COD
+511,Country:country-code,COD,180
+512,Country:iso_3166-2,COD,ISO 3166-2:CD
+513,Country:region,COD,Africa
+514,Country:sub-region,COD,Sub-Saharan Africa
+515,Country:intermediate-region,COD,Middle Africa
+516,Country:region-code,COD,002
+517,Country:sub-region-code,COD,202
+518,Country:intermediate-region-code,COD,017
+519,Country:name,COK,Cook Islands
+520,Country:alpha-2,COK,CK
+521,Country:alpha-3,COK,COK
+522,Country:country-code,COK,184
+523,Country:iso_3166-2,COK,ISO 3166-2:CK
+524,Country:region,COK,Oceania
+525,Country:sub-region,COK,Polynesia
+526,Country:region-code,COK,009
+527,Country:sub-region-code,COK,061
+528,Country:name,CRI,Costa Rica
+529,Country:alpha-2,CRI,CR
+530,Country:alpha-3,CRI,CRI
+531,Country:country-code,CRI,188
+532,Country:iso_3166-2,CRI,ISO 3166-2:CR
+533,Country:region,CRI,Americas
+534,Country:sub-region,CRI,Latin America and the Caribbean
+535,Country:intermediate-region,CRI,Central America
+536,Country:region-code,CRI,019
+537,Country:sub-region-code,CRI,419
+538,Country:intermediate-region-code,CRI,013
+539,Country:name,CIV,Côte d'Ivoire
+540,Country:alpha-2,CIV,CI
+541,Country:alpha-3,CIV,CIV
+542,Country:country-code,CIV,384
+543,Country:iso_3166-2,CIV,ISO 3166-2:CI
+544,Country:region,CIV,Africa
+545,Country:sub-region,CIV,Sub-Saharan Africa
+546,Country:intermediate-region,CIV,Western Africa
+547,Country:region-code,CIV,002
+548,Country:sub-region-code,CIV,202
+549,Country:intermediate-region-code,CIV,011
+550,Country:name,HRV,Croatia
+551,Country:alpha-2,HRV,HR
+552,Country:alpha-3,HRV,HRV
+553,Country:country-code,HRV,191
+554,Country:iso_3166-2,HRV,ISO 3166-2:HR
+555,Country:region,HRV,Europe
+556,Country:sub-region,HRV,Southern Europe
+557,Country:region-code,HRV,150
+558,Country:sub-region-code,HRV,039
+559,Country:name,CUB,Cuba
+560,Country:alpha-2,CUB,CU
+561,Country:alpha-3,CUB,CUB
+562,Country:country-code,CUB,192
+563,Country:iso_3166-2,CUB,ISO 3166-2:CU
+564,Country:region,CUB,Americas
+565,Country:sub-region,CUB,Latin America and the Caribbean
+566,Country:intermediate-region,CUB,Caribbean
+567,Country:region-code,CUB,019
+568,Country:sub-region-code,CUB,419
+569,Country:intermediate-region-code,CUB,029
+570,Country:name,CUW,Curaçao
+571,Country:alpha-2,CUW,CW
+572,Country:alpha-3,CUW,CUW
+573,Country:country-code,CUW,531
+574,Country:iso_3166-2,CUW,ISO 3166-2:CW
+575,Country:region,CUW,Americas
+576,Country:sub-region,CUW,Latin America and the Caribbean
+577,Country:intermediate-region,CUW,Caribbean
+578,Country:region-code,CUW,019
+579,Country:sub-region-code,CUW,419
+580,Country:intermediate-region-code,CUW,029
+581,Country:name,CYP,Cyprus
+582,Country:alpha-2,CYP,CY
+583,Country:alpha-3,CYP,CYP
+584,Country:country-code,CYP,196
+585,Country:iso_3166-2,CYP,ISO 3166-2:CY
+586,Country:region,CYP,Asia
+587,Country:sub-region,CYP,Western Asia
+588,Country:region-code,CYP,142
+589,Country:sub-region-code,CYP,145
+590,Country:name,CZE,Czechia
+591,Country:alpha-2,CZE,CZ
+592,Country:alpha-3,CZE,CZE
+593,Country:country-code,CZE,203
+594,Country:iso_3166-2,CZE,ISO 3166-2:CZ
+595,Country:region,CZE,Europe
+596,Country:sub-region,CZE,Eastern Europe
+597,Country:region-code,CZE,150
+598,Country:sub-region-code,CZE,151
+599,Country:name,DNK,Denmark
+600,Country:alpha-2,DNK,DK
+601,Country:alpha-3,DNK,DNK
+602,Country:country-code,DNK,208
+603,Country:iso_3166-2,DNK,ISO 3166-2:DK
+604,Country:region,DNK,Europe
+605,Country:sub-region,DNK,Northern Europe
+606,Country:region-code,DNK,150
+607,Country:sub-region-code,DNK,154
+608,Country:name,DJI,Djibouti
+609,Country:alpha-2,DJI,DJ
+610,Country:alpha-3,DJI,DJI
+611,Country:country-code,DJI,262
+612,Country:iso_3166-2,DJI,ISO 3166-2:DJ
+613,Country:region,DJI,Africa
+614,Country:sub-region,DJI,Sub-Saharan Africa
+615,Country:intermediate-region,DJI,Eastern Africa
+616,Country:region-code,DJI,002
+617,Country:sub-region-code,DJI,202
+618,Country:intermediate-region-code,DJI,014
+619,Country:name,DMA,Dominica
+620,Country:alpha-2,DMA,DM
+621,Country:alpha-3,DMA,DMA
+622,Country:country-code,DMA,212
+623,Country:iso_3166-2,DMA,ISO 3166-2:DM
+624,Country:region,DMA,Americas
+625,Country:sub-region,DMA,Latin America and the Caribbean
+626,Country:intermediate-region,DMA,Caribbean
+627,Country:region-code,DMA,019
+628,Country:sub-region-code,DMA,419
+629,Country:intermediate-region-code,DMA,029
+630,Country:name,DOM,Dominican Republic
+631,Country:alpha-2,DOM,DO
+632,Country:alpha-3,DOM,DOM
+633,Country:country-code,DOM,214
+634,Country:iso_3166-2,DOM,ISO 3166-2:DO
+635,Country:region,DOM,Americas
+636,Country:sub-region,DOM,Latin America and the Caribbean
+637,Country:intermediate-region,DOM,Caribbean
+638,Country:region-code,DOM,019
+639,Country:sub-region-code,DOM,419
+640,Country:intermediate-region-code,DOM,029
+641,Country:name,ECU,Ecuador
+642,Country:alpha-2,ECU,EC
+643,Country:alpha-3,ECU,ECU
+644,Country:country-code,ECU,218
+645,Country:iso_3166-2,ECU,ISO 3166-2:EC
+646,Country:region,ECU,Americas
+647,Country:sub-region,ECU,Latin America and the Caribbean
+648,Country:intermediate-region,ECU,South America
+649,Country:region-code,ECU,019
+650,Country:sub-region-code,ECU,419
+651,Country:intermediate-region-code,ECU,005
+652,Country:name,EGY,Egypt
+653,Country:alpha-2,EGY,EG
+654,Country:alpha-3,EGY,EGY
+655,Country:country-code,EGY,818
+656,Country:iso_3166-2,EGY,ISO 3166-2:EG
+657,Country:region,EGY,Africa
+658,Country:sub-region,EGY,Northern Africa
+659,Country:region-code,EGY,002
+660,Country:sub-region-code,EGY,015
+661,Country:name,SLV,El Salvador
+662,Country:alpha-2,SLV,SV
+663,Country:alpha-3,SLV,SLV
+664,Country:country-code,SLV,222
+665,Country:iso_3166-2,SLV,ISO 3166-2:SV
+666,Country:region,SLV,Americas
+667,Country:sub-region,SLV,Latin America and the Caribbean
+668,Country:intermediate-region,SLV,Central America
+669,Country:region-code,SLV,019
+670,Country:sub-region-code,SLV,419
+671,Country:intermediate-region-code,SLV,013
+672,Country:name,GNQ,Equatorial Guinea
+673,Country:alpha-2,GNQ,GQ
+674,Country:alpha-3,GNQ,GNQ
+675,Country:country-code,GNQ,226
+676,Country:iso_3166-2,GNQ,ISO 3166-2:GQ
+677,Country:region,GNQ,Africa
+678,Country:sub-region,GNQ,Sub-Saharan Africa
+679,Country:intermediate-region,GNQ,Middle Africa
+680,Country:region-code,GNQ,002
+681,Country:sub-region-code,GNQ,202
+682,Country:intermediate-region-code,GNQ,017
+683,Country:name,ERI,Eritrea
+684,Country:alpha-2,ERI,ER
+685,Country:alpha-3,ERI,ERI
+686,Country:country-code,ERI,232
+687,Country:iso_3166-2,ERI,ISO 3166-2:ER
+688,Country:region,ERI,Africa
+689,Country:sub-region,ERI,Sub-Saharan Africa
+690,Country:intermediate-region,ERI,Eastern Africa
+691,Country:region-code,ERI,002
+692,Country:sub-region-code,ERI,202
+693,Country:intermediate-region-code,ERI,014
+694,Country:name,EST,Estonia
+695,Country:alpha-2,EST,EE
+696,Country:alpha-3,EST,EST
+697,Country:country-code,EST,233
+698,Country:iso_3166-2,EST,ISO 3166-2:EE
+699,Country:region,EST,Europe
+700,Country:sub-region,EST,Northern Europe
+701,Country:region-code,EST,150
+702,Country:sub-region-code,EST,154
+703,Country:name,SWZ,Eswatini
+704,Country:alpha-2,SWZ,SZ
+705,Country:alpha-3,SWZ,SWZ
+706,Country:country-code,SWZ,748
+707,Country:iso_3166-2,SWZ,ISO 3166-2:SZ
+708,Country:region,SWZ,Africa
+709,Country:sub-region,SWZ,Sub-Saharan Africa
+710,Country:intermediate-region,SWZ,Southern Africa
+711,Country:region-code,SWZ,002
+712,Country:sub-region-code,SWZ,202
+713,Country:intermediate-region-code,SWZ,018
+714,Country:name,ETH,Ethiopia
+715,Country:alpha-2,ETH,ET
+716,Country:alpha-3,ETH,ETH
+717,Country:country-code,ETH,231
+718,Country:iso_3166-2,ETH,ISO 3166-2:ET
+719,Country:region,ETH,Africa
+720,Country:sub-region,ETH,Sub-Saharan Africa
+721,Country:intermediate-region,ETH,Eastern Africa
+722,Country:region-code,ETH,002
+723,Country:sub-region-code,ETH,202
+724,Country:intermediate-region-code,ETH,014
+725,Country:name,FLK,Falkland Islands (Malvinas)
+726,Country:alpha-2,FLK,FK
+727,Country:alpha-3,FLK,FLK
+728,Country:country-code,FLK,238
+729,Country:iso_3166-2,FLK,ISO 3166-2:FK
+730,Country:region,FLK,Americas
+731,Country:sub-region,FLK,Latin America and the Caribbean
+732,Country:intermediate-region,FLK,South America
+733,Country:region-code,FLK,019
+734,Country:sub-region-code,FLK,419
+735,Country:intermediate-region-code,FLK,005
+736,Country:name,FRO,Faroe Islands
+737,Country:alpha-2,FRO,FO
+738,Country:alpha-3,FRO,FRO
+739,Country:country-code,FRO,234
+740,Country:iso_3166-2,FRO,ISO 3166-2:FO
+741,Country:region,FRO,Europe
+742,Country:sub-region,FRO,Northern Europe
+743,Country:region-code,FRO,150
+744,Country:sub-region-code,FRO,154
+745,Country:name,FJI,Fiji
+746,Country:alpha-2,FJI,FJ
+747,Country:alpha-3,FJI,FJI
+748,Country:country-code,FJI,242
+749,Country:iso_3166-2,FJI,ISO 3166-2:FJ
+750,Country:region,FJI,Oceania
+751,Country:sub-region,FJI,Melanesia
+752,Country:region-code,FJI,009
+753,Country:sub-region-code,FJI,054
+754,Country:name,FIN,Finland
+755,Country:alpha-2,FIN,FI
+756,Country:alpha-3,FIN,FIN
+757,Country:country-code,FIN,246
+758,Country:iso_3166-2,FIN,ISO 3166-2:FI
+759,Country:region,FIN,Europe
+760,Country:sub-region,FIN,Northern Europe
+761,Country:region-code,FIN,150
+762,Country:sub-region-code,FIN,154
+763,Country:name,FRA,France
+764,Country:alpha-2,FRA,FR
+765,Country:alpha-3,FRA,FRA
+766,Country:country-code,FRA,250
+767,Country:iso_3166-2,FRA,ISO 3166-2:FR
+768,Country:region,FRA,Europe
+769,Country:sub-region,FRA,Western Europe
+770,Country:region-code,FRA,150
+771,Country:sub-region-code,FRA,155
+772,Country:name,GUF,French Guiana
+773,Country:alpha-2,GUF,GF
+774,Country:alpha-3,GUF,GUF
+775,Country:country-code,GUF,254
+776,Country:iso_3166-2,GUF,ISO 3166-2:GF
+777,Country:region,GUF,Americas
+778,Country:sub-region,GUF,Latin America and the Caribbean
+779,Country:intermediate-region,GUF,South America
+780,Country:region-code,GUF,019
+781,Country:sub-region-code,GUF,419
+782,Country:intermediate-region-code,GUF,005
+783,Country:name,PYF,French Polynesia
+784,Country:alpha-2,PYF,PF
+785,Country:alpha-3,PYF,PYF
+786,Country:country-code,PYF,258
+787,Country:iso_3166-2,PYF,ISO 3166-2:PF
+788,Country:region,PYF,Oceania
+789,Country:sub-region,PYF,Polynesia
+790,Country:region-code,PYF,009
+791,Country:sub-region-code,PYF,061
+792,Country:name,ATF,French Southern Territories
+793,Country:alpha-2,ATF,TF
+794,Country:alpha-3,ATF,ATF
+795,Country:country-code,ATF,260
+796,Country:iso_3166-2,ATF,ISO 3166-2:TF
+797,Country:region,ATF,Africa
+798,Country:sub-region,ATF,Sub-Saharan Africa
+799,Country:intermediate-region,ATF,Eastern Africa
+800,Country:region-code,ATF,002
+801,Country:sub-region-code,ATF,202
+802,Country:intermediate-region-code,ATF,014
+803,Country:name,GAB,Gabon
+804,Country:alpha-2,GAB,GA
+805,Country:alpha-3,GAB,GAB
+806,Country:country-code,GAB,266
+807,Country:iso_3166-2,GAB,ISO 3166-2:GA
+808,Country:region,GAB,Africa
+809,Country:sub-region,GAB,Sub-Saharan Africa
+810,Country:intermediate-region,GAB,Middle Africa
+811,Country:region-code,GAB,002
+812,Country:sub-region-code,GAB,202
+813,Country:intermediate-region-code,GAB,017
+814,Country:name,GMB,Gambia
+815,Country:alpha-2,GMB,GM
+816,Country:alpha-3,GMB,GMB
+817,Country:country-code,GMB,270
+818,Country:iso_3166-2,GMB,ISO 3166-2:GM
+819,Country:region,GMB,Africa
+820,Country:sub-region,GMB,Sub-Saharan Africa
+821,Country:intermediate-region,GMB,Western Africa
+822,Country:region-code,GMB,002
+823,Country:sub-region-code,GMB,202
+824,Country:intermediate-region-code,GMB,011
+825,Country:name,GEO,Georgia
+826,Country:alpha-2,GEO,GE
+827,Country:alpha-3,GEO,GEO
+828,Country:country-code,GEO,268
+829,Country:iso_3166-2,GEO,ISO 3166-2:GE
+830,Country:region,GEO,Asia
+831,Country:sub-region,GEO,Western Asia
+832,Country:region-code,GEO,142
+833,Country:sub-region-code,GEO,145
+834,Country:name,DEU,Germany
+835,Country:alpha-2,DEU,DE
+836,Country:alpha-3,DEU,DEU
+837,Country:country-code,DEU,276
+838,Country:iso_3166-2,DEU,ISO 3166-2:DE
+839,Country:region,DEU,Europe
+840,Country:sub-region,DEU,Western Europe
+841,Country:region-code,DEU,150
+842,Country:sub-region-code,DEU,155
+843,Country:name,GHA,Ghana
+844,Country:alpha-2,GHA,GH
+845,Country:alpha-3,GHA,GHA
+846,Country:country-code,GHA,288
+847,Country:iso_3166-2,GHA,ISO 3166-2:GH
+848,Country:region,GHA,Africa
+849,Country:sub-region,GHA,Sub-Saharan Africa
+850,Country:intermediate-region,GHA,Western Africa
+851,Country:region-code,GHA,002
+852,Country:sub-region-code,GHA,202
+853,Country:intermediate-region-code,GHA,011
+854,Country:name,GIB,Gibraltar
+855,Country:alpha-2,GIB,GI
+856,Country:alpha-3,GIB,GIB
+857,Country:country-code,GIB,292
+858,Country:iso_3166-2,GIB,ISO 3166-2:GI
+859,Country:region,GIB,Europe
+860,Country:sub-region,GIB,Southern Europe
+861,Country:region-code,GIB,150
+862,Country:sub-region-code,GIB,039
+863,Country:name,GRC,Greece
+864,Country:alpha-2,GRC,GR
+865,Country:alpha-3,GRC,GRC
+866,Country:country-code,GRC,300
+867,Country:iso_3166-2,GRC,ISO 3166-2:GR
+868,Country:region,GRC,Europe
+869,Country:sub-region,GRC,Southern Europe
+870,Country:region-code,GRC,150
+871,Country:sub-region-code,GRC,039
+872,Country:name,GRL,Greenland
+873,Country:alpha-2,GRL,GL
+874,Country:alpha-3,GRL,GRL
+875,Country:country-code,GRL,304
+876,Country:iso_3166-2,GRL,ISO 3166-2:GL
+877,Country:region,GRL,Americas
+878,Country:sub-region,GRL,Northern America
+879,Country:region-code,GRL,019
+880,Country:sub-region-code,GRL,021
+881,Country:name,GRD,Grenada
+882,Country:alpha-2,GRD,GD
+883,Country:alpha-3,GRD,GRD
+884,Country:country-code,GRD,308
+885,Country:iso_3166-2,GRD,ISO 3166-2:GD
+886,Country:region,GRD,Americas
+887,Country:sub-region,GRD,Latin America and the Caribbean
+888,Country:intermediate-region,GRD,Caribbean
+889,Country:region-code,GRD,019
+890,Country:sub-region-code,GRD,419
+891,Country:intermediate-region-code,GRD,029
+892,Country:name,GLP,Guadeloupe
+893,Country:alpha-2,GLP,GP
+894,Country:alpha-3,GLP,GLP
+895,Country:country-code,GLP,312
+896,Country:iso_3166-2,GLP,ISO 3166-2:GP
+897,Country:region,GLP,Americas
+898,Country:sub-region,GLP,Latin America and the Caribbean
+899,Country:intermediate-region,GLP,Caribbean
+900,Country:region-code,GLP,019
+901,Country:sub-region-code,GLP,419
+902,Country:intermediate-region-code,GLP,029
+903,Country:name,GUM,Guam
+904,Country:alpha-2,GUM,GU
+905,Country:alpha-3,GUM,GUM
+906,Country:country-code,GUM,316
+907,Country:iso_3166-2,GUM,ISO 3166-2:GU
+908,Country:region,GUM,Oceania
+909,Country:sub-region,GUM,Micronesia
+910,Country:region-code,GUM,009
+911,Country:sub-region-code,GUM,057
+912,Country:name,GTM,Guatemala
+913,Country:alpha-2,GTM,GT
+914,Country:alpha-3,GTM,GTM
+915,Country:country-code,GTM,320
+916,Country:iso_3166-2,GTM,ISO 3166-2:GT
+917,Country:region,GTM,Americas
+918,Country:sub-region,GTM,Latin America and the Caribbean
+919,Country:intermediate-region,GTM,Central America
+920,Country:region-code,GTM,019
+921,Country:sub-region-code,GTM,419
+922,Country:intermediate-region-code,GTM,013
+923,Country:name,GGY,Guernsey
+924,Country:alpha-2,GGY,GG
+925,Country:alpha-3,GGY,GGY
+926,Country:country-code,GGY,831
+927,Country:iso_3166-2,GGY,ISO 3166-2:GG
+928,Country:region,GGY,Europe
+929,Country:sub-region,GGY,Northern Europe
+930,Country:intermediate-region,GGY,Channel Islands
+931,Country:region-code,GGY,150
+932,Country:sub-region-code,GGY,154
+933,Country:intermediate-region-code,GGY,830
+934,Country:name,GIN,Guinea
+935,Country:alpha-2,GIN,GN
+936,Country:alpha-3,GIN,GIN
+937,Country:country-code,GIN,324
+938,Country:iso_3166-2,GIN,ISO 3166-2:GN
+939,Country:region,GIN,Africa
+940,Country:sub-region,GIN,Sub-Saharan Africa
+941,Country:intermediate-region,GIN,Western Africa
+942,Country:region-code,GIN,002
+943,Country:sub-region-code,GIN,202
+944,Country:intermediate-region-code,GIN,011
+945,Country:name,GNB,Guinea-Bissau
+946,Country:alpha-2,GNB,GW
+947,Country:alpha-3,GNB,GNB
+948,Country:country-code,GNB,624
+949,Country:iso_3166-2,GNB,ISO 3166-2:GW
+950,Country:region,GNB,Africa
+951,Country:sub-region,GNB,Sub-Saharan Africa
+952,Country:intermediate-region,GNB,Western Africa
+953,Country:region-code,GNB,002
+954,Country:sub-region-code,GNB,202
+955,Country:intermediate-region-code,GNB,011
+956,Country:name,GUY,Guyana
+957,Country:alpha-2,GUY,GY
+958,Country:alpha-3,GUY,GUY
+959,Country:country-code,GUY,328
+960,Country:iso_3166-2,GUY,ISO 3166-2:GY
+961,Country:region,GUY,Americas
+962,Country:sub-region,GUY,Latin America and the Caribbean
+963,Country:intermediate-region,GUY,South America
+964,Country:region-code,GUY,019
+965,Country:sub-region-code,GUY,419
+966,Country:intermediate-region-code,GUY,005
+967,Country:name,HTI,Haiti
+968,Country:alpha-2,HTI,HT
+969,Country:alpha-3,HTI,HTI
+970,Country:country-code,HTI,332
+971,Country:iso_3166-2,HTI,ISO 3166-2:HT
+972,Country:region,HTI,Americas
+973,Country:sub-region,HTI,Latin America and the Caribbean
+974,Country:intermediate-region,HTI,Caribbean
+975,Country:region-code,HTI,019
+976,Country:sub-region-code,HTI,419
+977,Country:intermediate-region-code,HTI,029
+978,Country:name,HMD,Heard Island and McDonald Islands
+979,Country:alpha-2,HMD,HM
+980,Country:alpha-3,HMD,HMD
+981,Country:country-code,HMD,334
+982,Country:iso_3166-2,HMD,ISO 3166-2:HM
+983,Country:region,HMD,Oceania
+984,Country:sub-region,HMD,Australia and New Zealand
+985,Country:region-code,HMD,009
+986,Country:sub-region-code,HMD,053
+987,Country:name,VAT,Holy See
+988,Country:alpha-2,VAT,VA
+989,Country:alpha-3,VAT,VAT
+990,Country:country-code,VAT,336
+991,Country:iso_3166-2,VAT,ISO 3166-2:VA
+992,Country:region,VAT,Europe
+993,Country:sub-region,VAT,Southern Europe
+994,Country:region-code,VAT,150
+995,Country:sub-region-code,VAT,039
+996,Country:name,HND,Honduras
+997,Country:alpha-2,HND,HN
+998,Country:alpha-3,HND,HND
+999,Country:country-code,HND,340
+1000,Country:iso_3166-2,HND,ISO 3166-2:HN
+1001,Country:region,HND,Americas
+1002,Country:sub-region,HND,Latin America and the Caribbean
+1003,Country:intermediate-region,HND,Central America
+1004,Country:region-code,HND,019
+1005,Country:sub-region-code,HND,419
+1006,Country:intermediate-region-code,HND,013
+1007,Country:name,HKG,Hong Kong
+1008,Country:alpha-2,HKG,HK
+1009,Country:alpha-3,HKG,HKG
+1010,Country:country-code,HKG,344
+1011,Country:iso_3166-2,HKG,ISO 3166-2:HK
+1012,Country:region,HKG,Asia
+1013,Country:sub-region,HKG,Eastern Asia
+1014,Country:region-code,HKG,142
+1015,Country:sub-region-code,HKG,030
+1016,Country:name,HUN,Hungary
+1017,Country:alpha-2,HUN,HU
+1018,Country:alpha-3,HUN,HUN
+1019,Country:country-code,HUN,348
+1020,Country:iso_3166-2,HUN,ISO 3166-2:HU
+1021,Country:region,HUN,Europe
+1022,Country:sub-region,HUN,Eastern Europe
+1023,Country:region-code,HUN,150
+1024,Country:sub-region-code,HUN,151
+1025,Country:name,ISL,Iceland
+1026,Country:alpha-2,ISL,IS
+1027,Country:alpha-3,ISL,ISL
+1028,Country:country-code,ISL,352
+1029,Country:iso_3166-2,ISL,ISO 3166-2:IS
+1030,Country:region,ISL,Europe
+1031,Country:sub-region,ISL,Northern Europe
+1032,Country:region-code,ISL,150
+1033,Country:sub-region-code,ISL,154
+1034,Country:name,IND,India
+1035,Country:alpha-2,IND,IN
+1036,Country:alpha-3,IND,IND
+1037,Country:country-code,IND,356
+1038,Country:iso_3166-2,IND,ISO 3166-2:IN
+1039,Country:region,IND,Asia
+1040,Country:sub-region,IND,Southern Asia
+1041,Country:region-code,IND,142
+1042,Country:sub-region-code,IND,034
+1043,Country:name,IDN,Indonesia
+1044,Country:alpha-2,IDN,ID
+1045,Country:alpha-3,IDN,IDN
+1046,Country:country-code,IDN,360
+1047,Country:iso_3166-2,IDN,ISO 3166-2:ID
+1048,Country:region,IDN,Asia
+1049,Country:sub-region,IDN,South-eastern Asia
+1050,Country:region-code,IDN,142
+1051,Country:sub-region-code,IDN,035
+1052,Country:name,IRN,Iran (Islamic Republic of)
+1053,Country:alpha-2,IRN,IR
+1054,Country:alpha-3,IRN,IRN
+1055,Country:country-code,IRN,364
+1056,Country:iso_3166-2,IRN,ISO 3166-2:IR
+1057,Country:region,IRN,Asia
+1058,Country:sub-region,IRN,Southern Asia
+1059,Country:region-code,IRN,142
+1060,Country:sub-region-code,IRN,034
+1061,Country:name,IRQ,Iraq
+1062,Country:alpha-2,IRQ,IQ
+1063,Country:alpha-3,IRQ,IRQ
+1064,Country:country-code,IRQ,368
+1065,Country:iso_3166-2,IRQ,ISO 3166-2:IQ
+1066,Country:region,IRQ,Asia
+1067,Country:sub-region,IRQ,Western Asia
+1068,Country:region-code,IRQ,142
+1069,Country:sub-region-code,IRQ,145
+1070,Country:name,IRL,Ireland
+1071,Country:alpha-2,IRL,IE
+1072,Country:alpha-3,IRL,IRL
+1073,Country:country-code,IRL,372
+1074,Country:iso_3166-2,IRL,ISO 3166-2:IE
+1075,Country:region,IRL,Europe
+1076,Country:sub-region,IRL,Northern Europe
+1077,Country:region-code,IRL,150
+1078,Country:sub-region-code,IRL,154
+1079,Country:name,IMN,Isle of Man
+1080,Country:alpha-2,IMN,IM
+1081,Country:alpha-3,IMN,IMN
+1082,Country:country-code,IMN,833
+1083,Country:iso_3166-2,IMN,ISO 3166-2:IM
+1084,Country:region,IMN,Europe
+1085,Country:sub-region,IMN,Northern Europe
+1086,Country:region-code,IMN,150
+1087,Country:sub-region-code,IMN,154
+1088,Country:name,ISR,Israel
+1089,Country:alpha-2,ISR,IL
+1090,Country:alpha-3,ISR,ISR
+1091,Country:country-code,ISR,376
+1092,Country:iso_3166-2,ISR,ISO 3166-2:IL
+1093,Country:region,ISR,Asia
+1094,Country:sub-region,ISR,Western Asia
+1095,Country:region-code,ISR,142
+1096,Country:sub-region-code,ISR,145
+1097,Country:name,ITA,Italy
+1098,Country:alpha-2,ITA,IT
+1099,Country:alpha-3,ITA,ITA
+1100,Country:country-code,ITA,380
+1101,Country:iso_3166-2,ITA,ISO 3166-2:IT
+1102,Country:region,ITA,Europe
+1103,Country:sub-region,ITA,Southern Europe
+1104,Country:region-code,ITA,150
+1105,Country:sub-region-code,ITA,039
+1106,Country:name,JAM,Jamaica
+1107,Country:alpha-2,JAM,JM
+1108,Country:alpha-3,JAM,JAM
+1109,Country:country-code,JAM,388
+1110,Country:iso_3166-2,JAM,ISO 3166-2:JM
+1111,Country:region,JAM,Americas
+1112,Country:sub-region,JAM,Latin America and the Caribbean
+1113,Country:intermediate-region,JAM,Caribbean
+1114,Country:region-code,JAM,019
+1115,Country:sub-region-code,JAM,419
+1116,Country:intermediate-region-code,JAM,029
+1117,Country:name,JPN,Japan
+1118,Country:alpha-2,JPN,JP
+1119,Country:alpha-3,JPN,JPN
+1120,Country:country-code,JPN,392
+1121,Country:iso_3166-2,JPN,ISO 3166-2:JP
+1122,Country:region,JPN,Asia
+1123,Country:sub-region,JPN,Eastern Asia
+1124,Country:region-code,JPN,142
+1125,Country:sub-region-code,JPN,030
+1126,Country:name,JEY,Jersey
+1127,Country:alpha-2,JEY,JE
+1128,Country:alpha-3,JEY,JEY
+1129,Country:country-code,JEY,832
+1130,Country:iso_3166-2,JEY,ISO 3166-2:JE
+1131,Country:region,JEY,Europe
+1132,Country:sub-region,JEY,Northern Europe
+1133,Country:intermediate-region,JEY,Channel Islands
+1134,Country:region-code,JEY,150
+1135,Country:sub-region-code,JEY,154
+1136,Country:intermediate-region-code,JEY,830
+1137,Country:name,JOR,Jordan
+1138,Country:alpha-2,JOR,JO
+1139,Country:alpha-3,JOR,JOR
+1140,Country:country-code,JOR,400
+1141,Country:iso_3166-2,JOR,ISO 3166-2:JO
+1142,Country:region,JOR,Asia
+1143,Country:sub-region,JOR,Western Asia
+1144,Country:region-code,JOR,142
+1145,Country:sub-region-code,JOR,145
+1146,Country:name,KAZ,Kazakhstan
+1147,Country:alpha-2,KAZ,KZ
+1148,Country:alpha-3,KAZ,KAZ
+1149,Country:country-code,KAZ,398
+1150,Country:iso_3166-2,KAZ,ISO 3166-2:KZ
+1151,Country:region,KAZ,Asia
+1152,Country:sub-region,KAZ,Central Asia
+1153,Country:region-code,KAZ,142
+1154,Country:sub-region-code,KAZ,143
+1155,Country:name,KEN,Kenya
+1156,Country:alpha-2,KEN,KE
+1157,Country:alpha-3,KEN,KEN
+1158,Country:country-code,KEN,404
+1159,Country:iso_3166-2,KEN,ISO 3166-2:KE
+1160,Country:region,KEN,Africa
+1161,Country:sub-region,KEN,Sub-Saharan Africa
+1162,Country:intermediate-region,KEN,Eastern Africa
+1163,Country:region-code,KEN,002
+1164,Country:sub-region-code,KEN,202
+1165,Country:intermediate-region-code,KEN,014
+1166,Country:name,KIR,Kiribati
+1167,Country:alpha-2,KIR,KI
+1168,Country:alpha-3,KIR,KIR
+1169,Country:country-code,KIR,296
+1170,Country:iso_3166-2,KIR,ISO 3166-2:KI
+1171,Country:region,KIR,Oceania
+1172,Country:sub-region,KIR,Micronesia
+1173,Country:region-code,KIR,009
+1174,Country:sub-region-code,KIR,057
+1175,Country:name,PRK,Korea (Democratic People's Republic of)
+1176,Country:alpha-2,PRK,KP
+1177,Country:alpha-3,PRK,PRK
+1178,Country:country-code,PRK,408
+1179,Country:iso_3166-2,PRK,ISO 3166-2:KP
+1180,Country:region,PRK,Asia
+1181,Country:sub-region,PRK,Eastern Asia
+1182,Country:region-code,PRK,142
+1183,Country:sub-region-code,PRK,030
+1184,Country:name,KOR,Korea, Republic of
+1185,Country:alpha-2,KOR,KR
+1186,Country:alpha-3,KOR,KOR
+1187,Country:country-code,KOR,410
+1188,Country:iso_3166-2,KOR,ISO 3166-2:KR
+1189,Country:region,KOR,Asia
+1190,Country:sub-region,KOR,Eastern Asia
+1191,Country:region-code,KOR,142
+1192,Country:sub-region-code,KOR,030
+1193,Country:name,KWT,Kuwait
+1194,Country:alpha-2,KWT,KW
+1195,Country:alpha-3,KWT,KWT
+1196,Country:country-code,KWT,414
+1197,Country:iso_3166-2,KWT,ISO 3166-2:KW
+1198,Country:region,KWT,Asia
+1199,Country:sub-region,KWT,Western Asia
+1200,Country:region-code,KWT,142
+1201,Country:sub-region-code,KWT,145
+1202,Country:name,KGZ,Kyrgyzstan
+1203,Country:alpha-2,KGZ,KG
+1204,Country:alpha-3,KGZ,KGZ
+1205,Country:country-code,KGZ,417
+1206,Country:iso_3166-2,KGZ,ISO 3166-2:KG
+1207,Country:region,KGZ,Asia
+1208,Country:sub-region,KGZ,Central Asia
+1209,Country:region-code,KGZ,142
+1210,Country:sub-region-code,KGZ,143
+1211,Country:name,LAO,Lao People's Democratic Republic
+1212,Country:alpha-2,LAO,LA
+1213,Country:alpha-3,LAO,LAO
+1214,Country:country-code,LAO,418
+1215,Country:iso_3166-2,LAO,ISO 3166-2:LA
+1216,Country:region,LAO,Asia
+1217,Country:sub-region,LAO,South-eastern Asia
+1218,Country:region-code,LAO,142
+1219,Country:sub-region-code,LAO,035
+1220,Country:name,LVA,Latvia
+1221,Country:alpha-2,LVA,LV
+1222,Country:alpha-3,LVA,LVA
+1223,Country:country-code,LVA,428
+1224,Country:iso_3166-2,LVA,ISO 3166-2:LV
+1225,Country:region,LVA,Europe
+1226,Country:sub-region,LVA,Northern Europe
+1227,Country:region-code,LVA,150
+1228,Country:sub-region-code,LVA,154
+1229,Country:name,LBN,Lebanon
+1230,Country:alpha-2,LBN,LB
+1231,Country:alpha-3,LBN,LBN
+1232,Country:country-code,LBN,422
+1233,Country:iso_3166-2,LBN,ISO 3166-2:LB
+1234,Country:region,LBN,Asia
+1235,Country:sub-region,LBN,Western Asia
+1236,Country:region-code,LBN,142
+1237,Country:sub-region-code,LBN,145
+1238,Country:name,LSO,Lesotho
+1239,Country:alpha-2,LSO,LS
+1240,Country:alpha-3,LSO,LSO
+1241,Country:country-code,LSO,426
+1242,Country:iso_3166-2,LSO,ISO 3166-2:LS
+1243,Country:region,LSO,Africa
+1244,Country:sub-region,LSO,Sub-Saharan Africa
+1245,Country:intermediate-region,LSO,Southern Africa
+1246,Country:region-code,LSO,002
+1247,Country:sub-region-code,LSO,202
+1248,Country:intermediate-region-code,LSO,018
+1249,Country:name,LBR,Liberia
+1250,Country:alpha-2,LBR,LR
+1251,Country:alpha-3,LBR,LBR
+1252,Country:country-code,LBR,430
+1253,Country:iso_3166-2,LBR,ISO 3166-2:LR
+1254,Country:region,LBR,Africa
+1255,Country:sub-region,LBR,Sub-Saharan Africa
+1256,Country:intermediate-region,LBR,Western Africa
+1257,Country:region-code,LBR,002
+1258,Country:sub-region-code,LBR,202
+1259,Country:intermediate-region-code,LBR,011
+1260,Country:name,LBY,Libya
+1261,Country:alpha-2,LBY,LY
+1262,Country:alpha-3,LBY,LBY
+1263,Country:country-code,LBY,434
+1264,Country:iso_3166-2,LBY,ISO 3166-2:LY
+1265,Country:region,LBY,Africa
+1266,Country:sub-region,LBY,Northern Africa
+1267,Country:region-code,LBY,002
+1268,Country:sub-region-code,LBY,015
+1269,Country:name,LIE,Liechtenstein
+1270,Country:alpha-2,LIE,LI
+1271,Country:alpha-3,LIE,LIE
+1272,Country:country-code,LIE,438
+1273,Country:iso_3166-2,LIE,ISO 3166-2:LI
+1274,Country:region,LIE,Europe
+1275,Country:sub-region,LIE,Western Europe
+1276,Country:region-code,LIE,150
+1277,Country:sub-region-code,LIE,155
+1278,Country:name,LTU,Lithuania
+1279,Country:alpha-2,LTU,LT
+1280,Country:alpha-3,LTU,LTU
+1281,Country:country-code,LTU,440
+1282,Country:iso_3166-2,LTU,ISO 3166-2:LT
+1283,Country:region,LTU,Europe
+1284,Country:sub-region,LTU,Northern Europe
+1285,Country:region-code,LTU,150
+1286,Country:sub-region-code,LTU,154
+1287,Country:name,LUX,Luxembourg
+1288,Country:alpha-2,LUX,LU
+1289,Country:alpha-3,LUX,LUX
+1290,Country:country-code,LUX,442
+1291,Country:iso_3166-2,LUX,ISO 3166-2:LU
+1292,Country:region,LUX,Europe
+1293,Country:sub-region,LUX,Western Europe
+1294,Country:region-code,LUX,150
+1295,Country:sub-region-code,LUX,155
+1296,Country:name,MAC,Macao
+1297,Country:alpha-2,MAC,MO
+1298,Country:alpha-3,MAC,MAC
+1299,Country:country-code,MAC,446
+1300,Country:iso_3166-2,MAC,ISO 3166-2:MO
+1301,Country:region,MAC,Asia
+1302,Country:sub-region,MAC,Eastern Asia
+1303,Country:region-code,MAC,142
+1304,Country:sub-region-code,MAC,030
+1305,Country:name,MDG,Madagascar
+1306,Country:alpha-2,MDG,MG
+1307,Country:alpha-3,MDG,MDG
+1308,Country:country-code,MDG,450
+1309,Country:iso_3166-2,MDG,ISO 3166-2:MG
+1310,Country:region,MDG,Africa
+1311,Country:sub-region,MDG,Sub-Saharan Africa
+1312,Country:intermediate-region,MDG,Eastern Africa
+1313,Country:region-code,MDG,002
+1314,Country:sub-region-code,MDG,202
+1315,Country:intermediate-region-code,MDG,014
+1316,Country:name,MWI,Malawi
+1317,Country:alpha-2,MWI,MW
+1318,Country:alpha-3,MWI,MWI
+1319,Country:country-code,MWI,454
+1320,Country:iso_3166-2,MWI,ISO 3166-2:MW
+1321,Country:region,MWI,Africa
+1322,Country:sub-region,MWI,Sub-Saharan Africa
+1323,Country:intermediate-region,MWI,Eastern Africa
+1324,Country:region-code,MWI,002
+1325,Country:sub-region-code,MWI,202
+1326,Country:intermediate-region-code,MWI,014
+1327,Country:name,MYS,Malaysia
+1328,Country:alpha-2,MYS,MY
+1329,Country:alpha-3,MYS,MYS
+1330,Country:country-code,MYS,458
+1331,Country:iso_3166-2,MYS,ISO 3166-2:MY
+1332,Country:region,MYS,Asia
+1333,Country:sub-region,MYS,South-eastern Asia
+1334,Country:region-code,MYS,142
+1335,Country:sub-region-code,MYS,035
+1336,Country:name,MDV,Maldives
+1337,Country:alpha-2,MDV,MV
+1338,Country:alpha-3,MDV,MDV
+1339,Country:country-code,MDV,462
+1340,Country:iso_3166-2,MDV,ISO 3166-2:MV
+1341,Country:region,MDV,Asia
+1342,Country:sub-region,MDV,Southern Asia
+1343,Country:region-code,MDV,142
+1344,Country:sub-region-code,MDV,034
+1345,Country:name,MLI,Mali
+1346,Country:alpha-2,MLI,ML
+1347,Country:alpha-3,MLI,MLI
+1348,Country:country-code,MLI,466
+1349,Country:iso_3166-2,MLI,ISO 3166-2:ML
+1350,Country:region,MLI,Africa
+1351,Country:sub-region,MLI,Sub-Saharan Africa
+1352,Country:intermediate-region,MLI,Western Africa
+1353,Country:region-code,MLI,002
+1354,Country:sub-region-code,MLI,202
+1355,Country:intermediate-region-code,MLI,011
+1356,Country:name,MLT,Malta
+1357,Country:alpha-2,MLT,MT
+1358,Country:alpha-3,MLT,MLT
+1359,Country:country-code,MLT,470
+1360,Country:iso_3166-2,MLT,ISO 3166-2:MT
+1361,Country:region,MLT,Europe
+1362,Country:sub-region,MLT,Southern Europe
+1363,Country:region-code,MLT,150
+1364,Country:sub-region-code,MLT,039
+1365,Country:name,MHL,Marshall Islands
+1366,Country:alpha-2,MHL,MH
+1367,Country:alpha-3,MHL,MHL
+1368,Country:country-code,MHL,584
+1369,Country:iso_3166-2,MHL,ISO 3166-2:MH
+1370,Country:region,MHL,Oceania
+1371,Country:sub-region,MHL,Micronesia
+1372,Country:region-code,MHL,009
+1373,Country:sub-region-code,MHL,057
+1374,Country:name,MTQ,Martinique
+1375,Country:alpha-2,MTQ,MQ
+1376,Country:alpha-3,MTQ,MTQ
+1377,Country:country-code,MTQ,474
+1378,Country:iso_3166-2,MTQ,ISO 3166-2:MQ
+1379,Country:region,MTQ,Americas
+1380,Country:sub-region,MTQ,Latin America and the Caribbean
+1381,Country:intermediate-region,MTQ,Caribbean
+1382,Country:region-code,MTQ,019
+1383,Country:sub-region-code,MTQ,419
+1384,Country:intermediate-region-code,MTQ,029
+1385,Country:name,MRT,Mauritania
+1386,Country:alpha-2,MRT,MR
+1387,Country:alpha-3,MRT,MRT
+1388,Country:country-code,MRT,478
+1389,Country:iso_3166-2,MRT,ISO 3166-2:MR
+1390,Country:region,MRT,Africa
+1391,Country:sub-region,MRT,Sub-Saharan Africa
+1392,Country:intermediate-region,MRT,Western Africa
+1393,Country:region-code,MRT,002
+1394,Country:sub-region-code,MRT,202
+1395,Country:intermediate-region-code,MRT,011
+1396,Country:name,MUS,Mauritius
+1397,Country:alpha-2,MUS,MU
+1398,Country:alpha-3,MUS,MUS
+1399,Country:country-code,MUS,480
+1400,Country:iso_3166-2,MUS,ISO 3166-2:MU
+1401,Country:region,MUS,Africa
+1402,Country:sub-region,MUS,Sub-Saharan Africa
+1403,Country:intermediate-region,MUS,Eastern Africa
+1404,Country:region-code,MUS,002
+1405,Country:sub-region-code,MUS,202
+1406,Country:intermediate-region-code,MUS,014
+1407,Country:name,MYT,Mayotte
+1408,Country:alpha-2,MYT,YT
+1409,Country:alpha-3,MYT,MYT
+1410,Country:country-code,MYT,175
+1411,Country:iso_3166-2,MYT,ISO 3166-2:YT
+1412,Country:region,MYT,Africa
+1413,Country:sub-region,MYT,Sub-Saharan Africa
+1414,Country:intermediate-region,MYT,Eastern Africa
+1415,Country:region-code,MYT,002
+1416,Country:sub-region-code,MYT,202
+1417,Country:intermediate-region-code,MYT,014
+1418,Country:name,MEX,Mexico
+1419,Country:alpha-2,MEX,MX
+1420,Country:alpha-3,MEX,MEX
+1421,Country:country-code,MEX,484
+1422,Country:iso_3166-2,MEX,ISO 3166-2:MX
+1423,Country:region,MEX,Americas
+1424,Country:sub-region,MEX,Latin America and the Caribbean
+1425,Country:intermediate-region,MEX,Central America
+1426,Country:region-code,MEX,019
+1427,Country:sub-region-code,MEX,419
+1428,Country:intermediate-region-code,MEX,013
+1429,Country:name,FSM,Micronesia (Federated States of)
+1430,Country:alpha-2,FSM,FM
+1431,Country:alpha-3,FSM,FSM
+1432,Country:country-code,FSM,583
+1433,Country:iso_3166-2,FSM,ISO 3166-2:FM
+1434,Country:region,FSM,Oceania
+1435,Country:sub-region,FSM,Micronesia
+1436,Country:region-code,FSM,009
+1437,Country:sub-region-code,FSM,057
+1438,Country:name,MDA,Moldova, Republic of
+1439,Country:alpha-2,MDA,MD
+1440,Country:alpha-3,MDA,MDA
+1441,Country:country-code,MDA,498
+1442,Country:iso_3166-2,MDA,ISO 3166-2:MD
+1443,Country:region,MDA,Europe
+1444,Country:sub-region,MDA,Eastern Europe
+1445,Country:region-code,MDA,150
+1446,Country:sub-region-code,MDA,151
+1447,Country:name,MCO,Monaco
+1448,Country:alpha-2,MCO,MC
+1449,Country:alpha-3,MCO,MCO
+1450,Country:country-code,MCO,492
+1451,Country:iso_3166-2,MCO,ISO 3166-2:MC
+1452,Country:region,MCO,Europe
+1453,Country:sub-region,MCO,Western Europe
+1454,Country:region-code,MCO,150
+1455,Country:sub-region-code,MCO,155
+1456,Country:name,MNG,Mongolia
+1457,Country:alpha-2,MNG,MN
+1458,Country:alpha-3,MNG,MNG
+1459,Country:country-code,MNG,496
+1460,Country:iso_3166-2,MNG,ISO 3166-2:MN
+1461,Country:region,MNG,Asia
+1462,Country:sub-region,MNG,Eastern Asia
+1463,Country:region-code,MNG,142
+1464,Country:sub-region-code,MNG,030
+1465,Country:name,MNE,Montenegro
+1466,Country:alpha-2,MNE,ME
+1467,Country:alpha-3,MNE,MNE
+1468,Country:country-code,MNE,499
+1469,Country:iso_3166-2,MNE,ISO 3166-2:ME
+1470,Country:region,MNE,Europe
+1471,Country:sub-region,MNE,Southern Europe
+1472,Country:region-code,MNE,150
+1473,Country:sub-region-code,MNE,039
+1474,Country:name,MSR,Montserrat
+1475,Country:alpha-2,MSR,MS
+1476,Country:alpha-3,MSR,MSR
+1477,Country:country-code,MSR,500
+1478,Country:iso_3166-2,MSR,ISO 3166-2:MS
+1479,Country:region,MSR,Americas
+1480,Country:sub-region,MSR,Latin America and the Caribbean
+1481,Country:intermediate-region,MSR,Caribbean
+1482,Country:region-code,MSR,019
+1483,Country:sub-region-code,MSR,419
+1484,Country:intermediate-region-code,MSR,029
+1485,Country:name,MAR,Morocco
+1486,Country:alpha-2,MAR,MA
+1487,Country:alpha-3,MAR,MAR
+1488,Country:country-code,MAR,504
+1489,Country:iso_3166-2,MAR,ISO 3166-2:MA
+1490,Country:region,MAR,Africa
+1491,Country:sub-region,MAR,Northern Africa
+1492,Country:region-code,MAR,002
+1493,Country:sub-region-code,MAR,015
+1494,Country:name,MOZ,Mozambique
+1495,Country:alpha-2,MOZ,MZ
+1496,Country:alpha-3,MOZ,MOZ
+1497,Country:country-code,MOZ,508
+1498,Country:iso_3166-2,MOZ,ISO 3166-2:MZ
+1499,Country:region,MOZ,Africa
+1500,Country:sub-region,MOZ,Sub-Saharan Africa
+1501,Country:intermediate-region,MOZ,Eastern Africa
+1502,Country:region-code,MOZ,002
+1503,Country:sub-region-code,MOZ,202
+1504,Country:intermediate-region-code,MOZ,014
+1505,Country:name,MMR,Myanmar
+1506,Country:alpha-2,MMR,MM
+1507,Country:alpha-3,MMR,MMR
+1508,Country:country-code,MMR,104
+1509,Country:iso_3166-2,MMR,ISO 3166-2:MM
+1510,Country:region,MMR,Asia
+1511,Country:sub-region,MMR,South-eastern Asia
+1512,Country:region-code,MMR,142
+1513,Country:sub-region-code,MMR,035
+1514,Country:name,NAM,Namibia
+1515,Country:alpha-2,NAM,NA
+1516,Country:alpha-3,NAM,NAM
+1517,Country:country-code,NAM,516
+1518,Country:iso_3166-2,NAM,ISO 3166-2:NA
+1519,Country:region,NAM,Africa
+1520,Country:sub-region,NAM,Sub-Saharan Africa
+1521,Country:intermediate-region,NAM,Southern Africa
+1522,Country:region-code,NAM,002
+1523,Country:sub-region-code,NAM,202
+1524,Country:intermediate-region-code,NAM,018
+1525,Country:name,NRU,Nauru
+1526,Country:alpha-2,NRU,NR
+1527,Country:alpha-3,NRU,NRU
+1528,Country:country-code,NRU,520
+1529,Country:iso_3166-2,NRU,ISO 3166-2:NR
+1530,Country:region,NRU,Oceania
+1531,Country:sub-region,NRU,Micronesia
+1532,Country:region-code,NRU,009
+1533,Country:sub-region-code,NRU,057
+1534,Country:name,NPL,Nepal
+1535,Country:alpha-2,NPL,NP
+1536,Country:alpha-3,NPL,NPL
+1537,Country:country-code,NPL,524
+1538,Country:iso_3166-2,NPL,ISO 3166-2:NP
+1539,Country:region,NPL,Asia
+1540,Country:sub-region,NPL,Southern Asia
+1541,Country:region-code,NPL,142
+1542,Country:sub-region-code,NPL,034
+1543,Country:name,NLD,Netherlands
+1544,Country:alpha-2,NLD,NL
+1545,Country:alpha-3,NLD,NLD
+1546,Country:country-code,NLD,528
+1547,Country:iso_3166-2,NLD,ISO 3166-2:NL
+1548,Country:region,NLD,Europe
+1549,Country:sub-region,NLD,Western Europe
+1550,Country:region-code,NLD,150
+1551,Country:sub-region-code,NLD,155
+1552,Country:name,NCL,New Caledonia
+1553,Country:alpha-2,NCL,NC
+1554,Country:alpha-3,NCL,NCL
+1555,Country:country-code,NCL,540
+1556,Country:iso_3166-2,NCL,ISO 3166-2:NC
+1557,Country:region,NCL,Oceania
+1558,Country:sub-region,NCL,Melanesia
+1559,Country:region-code,NCL,009
+1560,Country:sub-region-code,NCL,054
+1561,Country:name,NZL,New Zealand
+1562,Country:alpha-2,NZL,NZ
+1563,Country:alpha-3,NZL,NZL
+1564,Country:country-code,NZL,554
+1565,Country:iso_3166-2,NZL,ISO 3166-2:NZ
+1566,Country:region,NZL,Oceania
+1567,Country:sub-region,NZL,Australia and New Zealand
+1568,Country:region-code,NZL,009
+1569,Country:sub-region-code,NZL,053
+1570,Country:name,NIC,Nicaragua
+1571,Country:alpha-2,NIC,NI
+1572,Country:alpha-3,NIC,NIC
+1573,Country:country-code,NIC,558
+1574,Country:iso_3166-2,NIC,ISO 3166-2:NI
+1575,Country:region,NIC,Americas
+1576,Country:sub-region,NIC,Latin America and the Caribbean
+1577,Country:intermediate-region,NIC,Central America
+1578,Country:region-code,NIC,019
+1579,Country:sub-region-code,NIC,419
+1580,Country:intermediate-region-code,NIC,013
+1581,Country:name,NER,Niger
+1582,Country:alpha-2,NER,NE
+1583,Country:alpha-3,NER,NER
+1584,Country:country-code,NER,562
+1585,Country:iso_3166-2,NER,ISO 3166-2:NE
+1586,Country:region,NER,Africa
+1587,Country:sub-region,NER,Sub-Saharan Africa
+1588,Country:intermediate-region,NER,Western Africa
+1589,Country:region-code,NER,002
+1590,Country:sub-region-code,NER,202
+1591,Country:intermediate-region-code,NER,011
+1592,Country:name,NGA,Nigeria
+1593,Country:alpha-2,NGA,NG
+1594,Country:alpha-3,NGA,NGA
+1595,Country:country-code,NGA,566
+1596,Country:iso_3166-2,NGA,ISO 3166-2:NG
+1597,Country:region,NGA,Africa
+1598,Country:sub-region,NGA,Sub-Saharan Africa
+1599,Country:intermediate-region,NGA,Western Africa
+1600,Country:region-code,NGA,002
+1601,Country:sub-region-code,NGA,202
+1602,Country:intermediate-region-code,NGA,011
+1603,Country:name,NIU,Niue
+1604,Country:alpha-2,NIU,NU
+1605,Country:alpha-3,NIU,NIU
+1606,Country:country-code,NIU,570
+1607,Country:iso_3166-2,NIU,ISO 3166-2:NU
+1608,Country:region,NIU,Oceania
+1609,Country:sub-region,NIU,Polynesia
+1610,Country:region-code,NIU,009
+1611,Country:sub-region-code,NIU,061
+1612,Country:name,NFK,Norfolk Island
+1613,Country:alpha-2,NFK,NF
+1614,Country:alpha-3,NFK,NFK
+1615,Country:country-code,NFK,574
+1616,Country:iso_3166-2,NFK,ISO 3166-2:NF
+1617,Country:region,NFK,Oceania
+1618,Country:sub-region,NFK,Australia and New Zealand
+1619,Country:region-code,NFK,009
+1620,Country:sub-region-code,NFK,053
+1621,Country:name,MKD,North Macedonia
+1622,Country:alpha-2,MKD,MK
+1623,Country:alpha-3,MKD,MKD
+1624,Country:country-code,MKD,807
+1625,Country:iso_3166-2,MKD,ISO 3166-2:MK
+1626,Country:region,MKD,Europe
+1627,Country:sub-region,MKD,Southern Europe
+1628,Country:region-code,MKD,150
+1629,Country:sub-region-code,MKD,039
+1630,Country:name,MNP,Northern Mariana Islands
+1631,Country:alpha-2,MNP,MP
+1632,Country:alpha-3,MNP,MNP
+1633,Country:country-code,MNP,580
+1634,Country:iso_3166-2,MNP,ISO 3166-2:MP
+1635,Country:region,MNP,Oceania
+1636,Country:sub-region,MNP,Micronesia
+1637,Country:region-code,MNP,009
+1638,Country:sub-region-code,MNP,057
+1639,Country:name,NOR,Norway
+1640,Country:alpha-2,NOR,NO
+1641,Country:alpha-3,NOR,NOR
+1642,Country:country-code,NOR,578
+1643,Country:iso_3166-2,NOR,ISO 3166-2:NO
+1644,Country:region,NOR,Europe
+1645,Country:sub-region,NOR,Northern Europe
+1646,Country:region-code,NOR,150
+1647,Country:sub-region-code,NOR,154
+1648,Country:name,OMN,Oman
+1649,Country:alpha-2,OMN,OM
+1650,Country:alpha-3,OMN,OMN
+1651,Country:country-code,OMN,512
+1652,Country:iso_3166-2,OMN,ISO 3166-2:OM
+1653,Country:region,OMN,Asia
+1654,Country:sub-region,OMN,Western Asia
+1655,Country:region-code,OMN,142
+1656,Country:sub-region-code,OMN,145
+1657,Country:name,PAK,Pakistan
+1658,Country:alpha-2,PAK,PK
+1659,Country:alpha-3,PAK,PAK
+1660,Country:country-code,PAK,586
+1661,Country:iso_3166-2,PAK,ISO 3166-2:PK
+1662,Country:region,PAK,Asia
+1663,Country:sub-region,PAK,Southern Asia
+1664,Country:region-code,PAK,142
+1665,Country:sub-region-code,PAK,034
+1666,Country:name,PLW,Palau
+1667,Country:alpha-2,PLW,PW
+1668,Country:alpha-3,PLW,PLW
+1669,Country:country-code,PLW,585
+1670,Country:iso_3166-2,PLW,ISO 3166-2:PW
+1671,Country:region,PLW,Oceania
+1672,Country:sub-region,PLW,Micronesia
+1673,Country:region-code,PLW,009
+1674,Country:sub-region-code,PLW,057
+1675,Country:name,PSE,Palestine, State of
+1676,Country:alpha-2,PSE,PS
+1677,Country:alpha-3,PSE,PSE
+1678,Country:country-code,PSE,275
+1679,Country:iso_3166-2,PSE,ISO 3166-2:PS
+1680,Country:region,PSE,Asia
+1681,Country:sub-region,PSE,Western Asia
+1682,Country:region-code,PSE,142
+1683,Country:sub-region-code,PSE,145
+1684,Country:name,PAN,Panama
+1685,Country:alpha-2,PAN,PA
+1686,Country:alpha-3,PAN,PAN
+1687,Country:country-code,PAN,591
+1688,Country:iso_3166-2,PAN,ISO 3166-2:PA
+1689,Country:region,PAN,Americas
+1690,Country:sub-region,PAN,Latin America and the Caribbean
+1691,Country:intermediate-region,PAN,Central America
+1692,Country:region-code,PAN,019
+1693,Country:sub-region-code,PAN,419
+1694,Country:intermediate-region-code,PAN,013
+1695,Country:name,PNG,Papua New Guinea
+1696,Country:alpha-2,PNG,PG
+1697,Country:alpha-3,PNG,PNG
+1698,Country:country-code,PNG,598
+1699,Country:iso_3166-2,PNG,ISO 3166-2:PG
+1700,Country:region,PNG,Oceania
+1701,Country:sub-region,PNG,Melanesia
+1702,Country:region-code,PNG,009
+1703,Country:sub-region-code,PNG,054
+1704,Country:name,PRY,Paraguay
+1705,Country:alpha-2,PRY,PY
+1706,Country:alpha-3,PRY,PRY
+1707,Country:country-code,PRY,600
+1708,Country:iso_3166-2,PRY,ISO 3166-2:PY
+1709,Country:region,PRY,Americas
+1710,Country:sub-region,PRY,Latin America and the Caribbean
+1711,Country:intermediate-region,PRY,South America
+1712,Country:region-code,PRY,019
+1713,Country:sub-region-code,PRY,419
+1714,Country:intermediate-region-code,PRY,005
+1715,Country:name,PER,Peru
+1716,Country:alpha-2,PER,PE
+1717,Country:alpha-3,PER,PER
+1718,Country:country-code,PER,604
+1719,Country:iso_3166-2,PER,ISO 3166-2:PE
+1720,Country:region,PER,Americas
+1721,Country:sub-region,PER,Latin America and the Caribbean
+1722,Country:intermediate-region,PER,South America
+1723,Country:region-code,PER,019
+1724,Country:sub-region-code,PER,419
+1725,Country:intermediate-region-code,PER,005
+1726,Country:name,PHL,Philippines
+1727,Country:alpha-2,PHL,PH
+1728,Country:alpha-3,PHL,PHL
+1729,Country:country-code,PHL,608
+1730,Country:iso_3166-2,PHL,ISO 3166-2:PH
+1731,Country:region,PHL,Asia
+1732,Country:sub-region,PHL,South-eastern Asia
+1733,Country:region-code,PHL,142
+1734,Country:sub-region-code,PHL,035
+1735,Country:name,PCN,Pitcairn
+1736,Country:alpha-2,PCN,PN
+1737,Country:alpha-3,PCN,PCN
+1738,Country:country-code,PCN,612
+1739,Country:iso_3166-2,PCN,ISO 3166-2:PN
+1740,Country:region,PCN,Oceania
+1741,Country:sub-region,PCN,Polynesia
+1742,Country:region-code,PCN,009
+1743,Country:sub-region-code,PCN,061
+1744,Country:name,POL,Poland
+1745,Country:alpha-2,POL,PL
+1746,Country:alpha-3,POL,POL
+1747,Country:country-code,POL,616
+1748,Country:iso_3166-2,POL,ISO 3166-2:PL
+1749,Country:region,POL,Europe
+1750,Country:sub-region,POL,Eastern Europe
+1751,Country:region-code,POL,150
+1752,Country:sub-region-code,POL,151
+1753,Country:name,PRT,Portugal
+1754,Country:alpha-2,PRT,PT
+1755,Country:alpha-3,PRT,PRT
+1756,Country:country-code,PRT,620
+1757,Country:iso_3166-2,PRT,ISO 3166-2:PT
+1758,Country:region,PRT,Europe
+1759,Country:sub-region,PRT,Southern Europe
+1760,Country:region-code,PRT,150
+1761,Country:sub-region-code,PRT,039
+1762,Country:name,PRI,Puerto Rico
+1763,Country:alpha-2,PRI,PR
+1764,Country:alpha-3,PRI,PRI
+1765,Country:country-code,PRI,630
+1766,Country:iso_3166-2,PRI,ISO 3166-2:PR
+1767,Country:region,PRI,Americas
+1768,Country:sub-region,PRI,Latin America and the Caribbean
+1769,Country:intermediate-region,PRI,Caribbean
+1770,Country:region-code,PRI,019
+1771,Country:sub-region-code,PRI,419
+1772,Country:intermediate-region-code,PRI,029
+1773,Country:name,QAT,Qatar
+1774,Country:alpha-2,QAT,QA
+1775,Country:alpha-3,QAT,QAT
+1776,Country:country-code,QAT,634
+1777,Country:iso_3166-2,QAT,ISO 3166-2:QA
+1778,Country:region,QAT,Asia
+1779,Country:sub-region,QAT,Western Asia
+1780,Country:region-code,QAT,142
+1781,Country:sub-region-code,QAT,145
+1782,Country:name,REU,Réunion
+1783,Country:alpha-2,REU,RE
+1784,Country:alpha-3,REU,REU
+1785,Country:country-code,REU,638
+1786,Country:iso_3166-2,REU,ISO 3166-2:RE
+1787,Country:region,REU,Africa
+1788,Country:sub-region,REU,Sub-Saharan Africa
+1789,Country:intermediate-region,REU,Eastern Africa
+1790,Country:region-code,REU,002
+1791,Country:sub-region-code,REU,202
+1792,Country:intermediate-region-code,REU,014
+1793,Country:name,ROU,Romania
+1794,Country:alpha-2,ROU,RO
+1795,Country:alpha-3,ROU,ROU
+1796,Country:country-code,ROU,642
+1797,Country:iso_3166-2,ROU,ISO 3166-2:RO
+1798,Country:region,ROU,Europe
+1799,Country:sub-region,ROU,Eastern Europe
+1800,Country:region-code,ROU,150
+1801,Country:sub-region-code,ROU,151
+1802,Country:name,RUS,Russian Federation
+1803,Country:alpha-2,RUS,RU
+1804,Country:alpha-3,RUS,RUS
+1805,Country:country-code,RUS,643
+1806,Country:iso_3166-2,RUS,ISO 3166-2:RU
+1807,Country:region,RUS,Europe
+1808,Country:sub-region,RUS,Eastern Europe
+1809,Country:region-code,RUS,150
+1810,Country:sub-region-code,RUS,151
+1811,Country:name,RWA,Rwanda
+1812,Country:alpha-2,RWA,RW
+1813,Country:alpha-3,RWA,RWA
+1814,Country:country-code,RWA,646
+1815,Country:iso_3166-2,RWA,ISO 3166-2:RW
+1816,Country:region,RWA,Africa
+1817,Country:sub-region,RWA,Sub-Saharan Africa
+1818,Country:intermediate-region,RWA,Eastern Africa
+1819,Country:region-code,RWA,002
+1820,Country:sub-region-code,RWA,202
+1821,Country:intermediate-region-code,RWA,014
+1822,Country:name,BLM,Saint Barthélemy
+1823,Country:alpha-2,BLM,BL
+1824,Country:alpha-3,BLM,BLM
+1825,Country:country-code,BLM,652
+1826,Country:iso_3166-2,BLM,ISO 3166-2:BL
+1827,Country:region,BLM,Americas
+1828,Country:sub-region,BLM,Latin America and the Caribbean
+1829,Country:intermediate-region,BLM,Caribbean
+1830,Country:region-code,BLM,019
+1831,Country:sub-region-code,BLM,419
+1832,Country:intermediate-region-code,BLM,029
+1833,Country:name,SHN,Saint Helena, Ascension and Tristan da Cunha
+1834,Country:alpha-2,SHN,SH
+1835,Country:alpha-3,SHN,SHN
+1836,Country:country-code,SHN,654
+1837,Country:iso_3166-2,SHN,ISO 3166-2:SH
+1838,Country:region,SHN,Africa
+1839,Country:sub-region,SHN,Sub-Saharan Africa
+1840,Country:intermediate-region,SHN,Western Africa
+1841,Country:region-code,SHN,002
+1842,Country:sub-region-code,SHN,202
+1843,Country:intermediate-region-code,SHN,011
+1844,Country:name,KNA,Saint Kitts and Nevis
+1845,Country:alpha-2,KNA,KN
+1846,Country:alpha-3,KNA,KNA
+1847,Country:country-code,KNA,659
+1848,Country:iso_3166-2,KNA,ISO 3166-2:KN
+1849,Country:region,KNA,Americas
+1850,Country:sub-region,KNA,Latin America and the Caribbean
+1851,Country:intermediate-region,KNA,Caribbean
+1852,Country:region-code,KNA,019
+1853,Country:sub-region-code,KNA,419
+1854,Country:intermediate-region-code,KNA,029
+1855,Country:name,LCA,Saint Lucia
+1856,Country:alpha-2,LCA,LC
+1857,Country:alpha-3,LCA,LCA
+1858,Country:country-code,LCA,662
+1859,Country:iso_3166-2,LCA,ISO 3166-2:LC
+1860,Country:region,LCA,Americas
+1861,Country:sub-region,LCA,Latin America and the Caribbean
+1862,Country:intermediate-region,LCA,Caribbean
+1863,Country:region-code,LCA,019
+1864,Country:sub-region-code,LCA,419
+1865,Country:intermediate-region-code,LCA,029
+1866,Country:name,MAF,Saint Martin (French part)
+1867,Country:alpha-2,MAF,MF
+1868,Country:alpha-3,MAF,MAF
+1869,Country:country-code,MAF,663
+1870,Country:iso_3166-2,MAF,ISO 3166-2:MF
+1871,Country:region,MAF,Americas
+1872,Country:sub-region,MAF,Latin America and the Caribbean
+1873,Country:intermediate-region,MAF,Caribbean
+1874,Country:region-code,MAF,019
+1875,Country:sub-region-code,MAF,419
+1876,Country:intermediate-region-code,MAF,029
+1877,Country:name,SPM,Saint Pierre and Miquelon
+1878,Country:alpha-2,SPM,PM
+1879,Country:alpha-3,SPM,SPM
+1880,Country:country-code,SPM,666
+1881,Country:iso_3166-2,SPM,ISO 3166-2:PM
+1882,Country:region,SPM,Americas
+1883,Country:sub-region,SPM,Northern America
+1884,Country:region-code,SPM,019
+1885,Country:sub-region-code,SPM,021
+1886,Country:name,VCT,Saint Vincent and the Grenadines
+1887,Country:alpha-2,VCT,VC
+1888,Country:alpha-3,VCT,VCT
+1889,Country:country-code,VCT,670
+1890,Country:iso_3166-2,VCT,ISO 3166-2:VC
+1891,Country:region,VCT,Americas
+1892,Country:sub-region,VCT,Latin America and the Caribbean
+1893,Country:intermediate-region,VCT,Caribbean
+1894,Country:region-code,VCT,019
+1895,Country:sub-region-code,VCT,419
+1896,Country:intermediate-region-code,VCT,029
+1897,Country:name,WSM,Samoa
+1898,Country:alpha-2,WSM,WS
+1899,Country:alpha-3,WSM,WSM
+1900,Country:country-code,WSM,882
+1901,Country:iso_3166-2,WSM,ISO 3166-2:WS
+1902,Country:region,WSM,Oceania
+1903,Country:sub-region,WSM,Polynesia
+1904,Country:region-code,WSM,009
+1905,Country:sub-region-code,WSM,061
+1906,Country:name,SMR,San Marino
+1907,Country:alpha-2,SMR,SM
+1908,Country:alpha-3,SMR,SMR
+1909,Country:country-code,SMR,674
+1910,Country:iso_3166-2,SMR,ISO 3166-2:SM
+1911,Country:region,SMR,Europe
+1912,Country:sub-region,SMR,Southern Europe
+1913,Country:region-code,SMR,150
+1914,Country:sub-region-code,SMR,039
+1915,Country:name,STP,Sao Tome and Principe
+1916,Country:alpha-2,STP,ST
+1917,Country:alpha-3,STP,STP
+1918,Country:country-code,STP,678
+1919,Country:iso_3166-2,STP,ISO 3166-2:ST
+1920,Country:region,STP,Africa
+1921,Country:sub-region,STP,Sub-Saharan Africa
+1922,Country:intermediate-region,STP,Middle Africa
+1923,Country:region-code,STP,002
+1924,Country:sub-region-code,STP,202
+1925,Country:intermediate-region-code,STP,017
+1926,Country:name,SAU,Saudi Arabia
+1927,Country:alpha-2,SAU,SA
+1928,Country:alpha-3,SAU,SAU
+1929,Country:country-code,SAU,682
+1930,Country:iso_3166-2,SAU,ISO 3166-2:SA
+1931,Country:region,SAU,Asia
+1932,Country:sub-region,SAU,Western Asia
+1933,Country:region-code,SAU,142
+1934,Country:sub-region-code,SAU,145
+1935,Country:name,SEN,Senegal
+1936,Country:alpha-2,SEN,SN
+1937,Country:alpha-3,SEN,SEN
+1938,Country:country-code,SEN,686
+1939,Country:iso_3166-2,SEN,ISO 3166-2:SN
+1940,Country:region,SEN,Africa
+1941,Country:sub-region,SEN,Sub-Saharan Africa
+1942,Country:intermediate-region,SEN,Western Africa
+1943,Country:region-code,SEN,002
+1944,Country:sub-region-code,SEN,202
+1945,Country:intermediate-region-code,SEN,011
+1946,Country:name,SRB,Serbia
+1947,Country:alpha-2,SRB,RS
+1948,Country:alpha-3,SRB,SRB
+1949,Country:country-code,SRB,688
+1950,Country:iso_3166-2,SRB,ISO 3166-2:RS
+1951,Country:region,SRB,Europe
+1952,Country:sub-region,SRB,Southern Europe
+1953,Country:region-code,SRB,150
+1954,Country:sub-region-code,SRB,039
+1955,Country:name,SYC,Seychelles
+1956,Country:alpha-2,SYC,SC
+1957,Country:alpha-3,SYC,SYC
+1958,Country:country-code,SYC,690
+1959,Country:iso_3166-2,SYC,ISO 3166-2:SC
+1960,Country:region,SYC,Africa
+1961,Country:sub-region,SYC,Sub-Saharan Africa
+1962,Country:intermediate-region,SYC,Eastern Africa
+1963,Country:region-code,SYC,002
+1964,Country:sub-region-code,SYC,202
+1965,Country:intermediate-region-code,SYC,014
+1966,Country:name,SLE,Sierra Leone
+1967,Country:alpha-2,SLE,SL
+1968,Country:alpha-3,SLE,SLE
+1969,Country:country-code,SLE,694
+1970,Country:iso_3166-2,SLE,ISO 3166-2:SL
+1971,Country:region,SLE,Africa
+1972,Country:sub-region,SLE,Sub-Saharan Africa
+1973,Country:intermediate-region,SLE,Western Africa
+1974,Country:region-code,SLE,002
+1975,Country:sub-region-code,SLE,202
+1976,Country:intermediate-region-code,SLE,011
+1977,Country:name,SGP,Singapore
+1978,Country:alpha-2,SGP,SG
+1979,Country:alpha-3,SGP,SGP
+1980,Country:country-code,SGP,702
+1981,Country:iso_3166-2,SGP,ISO 3166-2:SG
+1982,Country:region,SGP,Asia
+1983,Country:sub-region,SGP,South-eastern Asia
+1984,Country:region-code,SGP,142
+1985,Country:sub-region-code,SGP,035
+1986,Country:name,SXM,Sint Maarten (Dutch part)
+1987,Country:alpha-2,SXM,SX
+1988,Country:alpha-3,SXM,SXM
+1989,Country:country-code,SXM,534
+1990,Country:iso_3166-2,SXM,ISO 3166-2:SX
+1991,Country:region,SXM,Americas
+1992,Country:sub-region,SXM,Latin America and the Caribbean
+1993,Country:intermediate-region,SXM,Caribbean
+1994,Country:region-code,SXM,019
+1995,Country:sub-region-code,SXM,419
+1996,Country:intermediate-region-code,SXM,029
+1997,Country:name,SVK,Slovakia
+1998,Country:alpha-2,SVK,SK
+1999,Country:alpha-3,SVK,SVK
+2000,Country:country-code,SVK,703
+2001,Country:iso_3166-2,SVK,ISO 3166-2:SK
+2002,Country:region,SVK,Europe
+2003,Country:sub-region,SVK,Eastern Europe
+2004,Country:region-code,SVK,150
+2005,Country:sub-region-code,SVK,151
+2006,Country:name,SVN,Slovenia
+2007,Country:alpha-2,SVN,SI
+2008,Country:alpha-3,SVN,SVN
+2009,Country:country-code,SVN,705
+2010,Country:iso_3166-2,SVN,ISO 3166-2:SI
+2011,Country:region,SVN,Europe
+2012,Country:sub-region,SVN,Southern Europe
+2013,Country:region-code,SVN,150
+2014,Country:sub-region-code,SVN,039
+2015,Country:name,SLB,Solomon Islands
+2016,Country:alpha-2,SLB,SB
+2017,Country:alpha-3,SLB,SLB
+2018,Country:country-code,SLB,090
+2019,Country:iso_3166-2,SLB,ISO 3166-2:SB
+2020,Country:region,SLB,Oceania
+2021,Country:sub-region,SLB,Melanesia
+2022,Country:region-code,SLB,009
+2023,Country:sub-region-code,SLB,054
+2024,Country:name,SOM,Somalia
+2025,Country:alpha-2,SOM,SO
+2026,Country:alpha-3,SOM,SOM
+2027,Country:country-code,SOM,706
+2028,Country:iso_3166-2,SOM,ISO 3166-2:SO
+2029,Country:region,SOM,Africa
+2030,Country:sub-region,SOM,Sub-Saharan Africa
+2031,Country:intermediate-region,SOM,Eastern Africa
+2032,Country:region-code,SOM,002
+2033,Country:sub-region-code,SOM,202
+2034,Country:intermediate-region-code,SOM,014
+2035,Country:name,ZAF,South Africa
+2036,Country:alpha-2,ZAF,ZA
+2037,Country:alpha-3,ZAF,ZAF
+2038,Country:country-code,ZAF,710
+2039,Country:iso_3166-2,ZAF,ISO 3166-2:ZA
+2040,Country:region,ZAF,Africa
+2041,Country:sub-region,ZAF,Sub-Saharan Africa
+2042,Country:intermediate-region,ZAF,Southern Africa
+2043,Country:region-code,ZAF,002
+2044,Country:sub-region-code,ZAF,202
+2045,Country:intermediate-region-code,ZAF,018
+2046,Country:name,SGS,South Georgia and the South Sandwich Islands
+2047,Country:alpha-2,SGS,GS
+2048,Country:alpha-3,SGS,SGS
+2049,Country:country-code,SGS,239
+2050,Country:iso_3166-2,SGS,ISO 3166-2:GS
+2051,Country:region,SGS,Americas
+2052,Country:sub-region,SGS,Latin America and the Caribbean
+2053,Country:intermediate-region,SGS,South America
+2054,Country:region-code,SGS,019
+2055,Country:sub-region-code,SGS,419
+2056,Country:intermediate-region-code,SGS,005
+2057,Country:name,SSD,South Sudan
+2058,Country:alpha-2,SSD,SS
+2059,Country:alpha-3,SSD,SSD
+2060,Country:country-code,SSD,728
+2061,Country:iso_3166-2,SSD,ISO 3166-2:SS
+2062,Country:region,SSD,Africa
+2063,Country:sub-region,SSD,Sub-Saharan Africa
+2064,Country:intermediate-region,SSD,Eastern Africa
+2065,Country:region-code,SSD,002
+2066,Country:sub-region-code,SSD,202
+2067,Country:intermediate-region-code,SSD,014
+2068,Country:name,ESP,Spain
+2069,Country:alpha-2,ESP,ES
+2070,Country:alpha-3,ESP,ESP
+2071,Country:country-code,ESP,724
+2072,Country:iso_3166-2,ESP,ISO 3166-2:ES
+2073,Country:region,ESP,Europe
+2074,Country:sub-region,ESP,Southern Europe
+2075,Country:region-code,ESP,150
+2076,Country:sub-region-code,ESP,039
+2077,Country:name,LKA,Sri Lanka
+2078,Country:alpha-2,LKA,LK
+2079,Country:alpha-3,LKA,LKA
+2080,Country:country-code,LKA,144
+2081,Country:iso_3166-2,LKA,ISO 3166-2:LK
+2082,Country:region,LKA,Asia
+2083,Country:sub-region,LKA,Southern Asia
+2084,Country:region-code,LKA,142
+2085,Country:sub-region-code,LKA,034
+2086,Country:name,SDN,Sudan
+2087,Country:alpha-2,SDN,SD
+2088,Country:alpha-3,SDN,SDN
+2089,Country:country-code,SDN,729
+2090,Country:iso_3166-2,SDN,ISO 3166-2:SD
+2091,Country:region,SDN,Africa
+2092,Country:sub-region,SDN,Northern Africa
+2093,Country:region-code,SDN,002
+2094,Country:sub-region-code,SDN,015
+2095,Country:name,SUR,Suriname
+2096,Country:alpha-2,SUR,SR
+2097,Country:alpha-3,SUR,SUR
+2098,Country:country-code,SUR,740
+2099,Country:iso_3166-2,SUR,ISO 3166-2:SR
+2100,Country:region,SUR,Americas
+2101,Country:sub-region,SUR,Latin America and the Caribbean
+2102,Country:intermediate-region,SUR,South America
+2103,Country:region-code,SUR,019
+2104,Country:sub-region-code,SUR,419
+2105,Country:intermediate-region-code,SUR,005
+2106,Country:name,SJM,Svalbard and Jan Mayen
+2107,Country:alpha-2,SJM,SJ
+2108,Country:alpha-3,SJM,SJM
+2109,Country:country-code,SJM,744
+2110,Country:iso_3166-2,SJM,ISO 3166-2:SJ
+2111,Country:region,SJM,Europe
+2112,Country:sub-region,SJM,Northern Europe
+2113,Country:region-code,SJM,150
+2114,Country:sub-region-code,SJM,154
+2115,Country:name,SWE,Sweden
+2116,Country:alpha-2,SWE,SE
+2117,Country:alpha-3,SWE,SWE
+2118,Country:country-code,SWE,752
+2119,Country:iso_3166-2,SWE,ISO 3166-2:SE
+2120,Country:region,SWE,Europe
+2121,Country:sub-region,SWE,Northern Europe
+2122,Country:region-code,SWE,150
+2123,Country:sub-region-code,SWE,154
+2124,Country:name,CHE,Switzerland
+2125,Country:alpha-2,CHE,CH
+2126,Country:alpha-3,CHE,CHE
+2127,Country:country-code,CHE,756
+2128,Country:iso_3166-2,CHE,ISO 3166-2:CH
+2129,Country:region,CHE,Europe
+2130,Country:sub-region,CHE,Western Europe
+2131,Country:region-code,CHE,150
+2132,Country:sub-region-code,CHE,155
+2133,Country:name,SYR,Syrian Arab Republic
+2134,Country:alpha-2,SYR,SY
+2135,Country:alpha-3,SYR,SYR
+2136,Country:country-code,SYR,760
+2137,Country:iso_3166-2,SYR,ISO 3166-2:SY
+2138,Country:region,SYR,Asia
+2139,Country:sub-region,SYR,Western Asia
+2140,Country:region-code,SYR,142
+2141,Country:sub-region-code,SYR,145
+2142,Country:name,TWN,Taiwan, Province of China
+2143,Country:alpha-2,TWN,TW
+2144,Country:alpha-3,TWN,TWN
+2145,Country:country-code,TWN,158
+2146,Country:iso_3166-2,TWN,ISO 3166-2:TW
+2147,Country:region,TWN,Asia
+2148,Country:sub-region,TWN,Eastern Asia
+2149,Country:region-code,TWN,142
+2150,Country:sub-region-code,TWN,030
+2151,Country:name,TJK,Tajikistan
+2152,Country:alpha-2,TJK,TJ
+2153,Country:alpha-3,TJK,TJK
+2154,Country:country-code,TJK,762
+2155,Country:iso_3166-2,TJK,ISO 3166-2:TJ
+2156,Country:region,TJK,Asia
+2157,Country:sub-region,TJK,Central Asia
+2158,Country:region-code,TJK,142
+2159,Country:sub-region-code,TJK,143
+2160,Country:name,TZA,Tanzania, United Republic of
+2161,Country:alpha-2,TZA,TZ
+2162,Country:alpha-3,TZA,TZA
+2163,Country:country-code,TZA,834
+2164,Country:iso_3166-2,TZA,ISO 3166-2:TZ
+2165,Country:region,TZA,Africa
+2166,Country:sub-region,TZA,Sub-Saharan Africa
+2167,Country:intermediate-region,TZA,Eastern Africa
+2168,Country:region-code,TZA,002
+2169,Country:sub-region-code,TZA,202
+2170,Country:intermediate-region-code,TZA,014
+2171,Country:name,THA,Thailand
+2172,Country:alpha-2,THA,TH
+2173,Country:alpha-3,THA,THA
+2174,Country:country-code,THA,764
+2175,Country:iso_3166-2,THA,ISO 3166-2:TH
+2176,Country:region,THA,Asia
+2177,Country:sub-region,THA,South-eastern Asia
+2178,Country:region-code,THA,142
+2179,Country:sub-region-code,THA,035
+2180,Country:name,TLS,Timor-Leste
+2181,Country:alpha-2,TLS,TL
+2182,Country:alpha-3,TLS,TLS
+2183,Country:country-code,TLS,626
+2184,Country:iso_3166-2,TLS,ISO 3166-2:TL
+2185,Country:region,TLS,Asia
+2186,Country:sub-region,TLS,South-eastern Asia
+2187,Country:region-code,TLS,142
+2188,Country:sub-region-code,TLS,035
+2189,Country:name,TGO,Togo
+2190,Country:alpha-2,TGO,TG
+2191,Country:alpha-3,TGO,TGO
+2192,Country:country-code,TGO,768
+2193,Country:iso_3166-2,TGO,ISO 3166-2:TG
+2194,Country:region,TGO,Africa
+2195,Country:sub-region,TGO,Sub-Saharan Africa
+2196,Country:intermediate-region,TGO,Western Africa
+2197,Country:region-code,TGO,002
+2198,Country:sub-region-code,TGO,202
+2199,Country:intermediate-region-code,TGO,011
+2200,Country:name,TKL,Tokelau
+2201,Country:alpha-2,TKL,TK
+2202,Country:alpha-3,TKL,TKL
+2203,Country:country-code,TKL,772
+2204,Country:iso_3166-2,TKL,ISO 3166-2:TK
+2205,Country:region,TKL,Oceania
+2206,Country:sub-region,TKL,Polynesia
+2207,Country:region-code,TKL,009
+2208,Country:sub-region-code,TKL,061
+2209,Country:name,TON,Tonga
+2210,Country:alpha-2,TON,TO
+2211,Country:alpha-3,TON,TON
+2212,Country:country-code,TON,776
+2213,Country:iso_3166-2,TON,ISO 3166-2:TO
+2214,Country:region,TON,Oceania
+2215,Country:sub-region,TON,Polynesia
+2216,Country:region-code,TON,009
+2217,Country:sub-region-code,TON,061
+2218,Country:name,TTO,Trinidad and Tobago
+2219,Country:alpha-2,TTO,TT
+2220,Country:alpha-3,TTO,TTO
+2221,Country:country-code,TTO,780
+2222,Country:iso_3166-2,TTO,ISO 3166-2:TT
+2223,Country:region,TTO,Americas
+2224,Country:sub-region,TTO,Latin America and the Caribbean
+2225,Country:intermediate-region,TTO,Caribbean
+2226,Country:region-code,TTO,019
+2227,Country:sub-region-code,TTO,419
+2228,Country:intermediate-region-code,TTO,029
+2229,Country:name,TUN,Tunisia
+2230,Country:alpha-2,TUN,TN
+2231,Country:alpha-3,TUN,TUN
+2232,Country:country-code,TUN,788
+2233,Country:iso_3166-2,TUN,ISO 3166-2:TN
+2234,Country:region,TUN,Africa
+2235,Country:sub-region,TUN,Northern Africa
+2236,Country:region-code,TUN,002
+2237,Country:sub-region-code,TUN,015
+2238,Country:name,TUR,Turkey
+2239,Country:alpha-2,TUR,TR
+2240,Country:alpha-3,TUR,TUR
+2241,Country:country-code,TUR,792
+2242,Country:iso_3166-2,TUR,ISO 3166-2:TR
+2243,Country:region,TUR,Asia
+2244,Country:sub-region,TUR,Western Asia
+2245,Country:region-code,TUR,142
+2246,Country:sub-region-code,TUR,145
+2247,Country:name,TKM,Turkmenistan
+2248,Country:alpha-2,TKM,TM
+2249,Country:alpha-3,TKM,TKM
+2250,Country:country-code,TKM,795
+2251,Country:iso_3166-2,TKM,ISO 3166-2:TM
+2252,Country:region,TKM,Asia
+2253,Country:sub-region,TKM,Central Asia
+2254,Country:region-code,TKM,142
+2255,Country:sub-region-code,TKM,143
+2256,Country:name,TCA,Turks and Caicos Islands
+2257,Country:alpha-2,TCA,TC
+2258,Country:alpha-3,TCA,TCA
+2259,Country:country-code,TCA,796
+2260,Country:iso_3166-2,TCA,ISO 3166-2:TC
+2261,Country:region,TCA,Americas
+2262,Country:sub-region,TCA,Latin America and the Caribbean
+2263,Country:intermediate-region,TCA,Caribbean
+2264,Country:region-code,TCA,019
+2265,Country:sub-region-code,TCA,419
+2266,Country:intermediate-region-code,TCA,029
+2267,Country:name,TUV,Tuvalu
+2268,Country:alpha-2,TUV,TV
+2269,Country:alpha-3,TUV,TUV
+2270,Country:country-code,TUV,798
+2271,Country:iso_3166-2,TUV,ISO 3166-2:TV
+2272,Country:region,TUV,Oceania
+2273,Country:sub-region,TUV,Polynesia
+2274,Country:region-code,TUV,009
+2275,Country:sub-region-code,TUV,061
+2276,Country:name,UGA,Uganda
+2277,Country:alpha-2,UGA,UG
+2278,Country:alpha-3,UGA,UGA
+2279,Country:country-code,UGA,800
+2280,Country:iso_3166-2,UGA,ISO 3166-2:UG
+2281,Country:region,UGA,Africa
+2282,Country:sub-region,UGA,Sub-Saharan Africa
+2283,Country:intermediate-region,UGA,Eastern Africa
+2284,Country:region-code,UGA,002
+2285,Country:sub-region-code,UGA,202
+2286,Country:intermediate-region-code,UGA,014
+2287,Country:name,UKR,Ukraine
+2288,Country:alpha-2,UKR,UA
+2289,Country:alpha-3,UKR,UKR
+2290,Country:country-code,UKR,804
+2291,Country:iso_3166-2,UKR,ISO 3166-2:UA
+2292,Country:region,UKR,Europe
+2293,Country:sub-region,UKR,Eastern Europe
+2294,Country:region-code,UKR,150
+2295,Country:sub-region-code,UKR,151
+2296,Country:name,ARE,United Arab Emirates
+2297,Country:alpha-2,ARE,AE
+2298,Country:alpha-3,ARE,ARE
+2299,Country:country-code,ARE,784
+2300,Country:iso_3166-2,ARE,ISO 3166-2:AE
+2301,Country:region,ARE,Asia
+2302,Country:sub-region,ARE,Western Asia
+2303,Country:region-code,ARE,142
+2304,Country:sub-region-code,ARE,145
+2305,Country:name,GBR,United Kingdom of Great Britain and Northern Ireland
+2306,Country:alpha-2,GBR,GB
+2307,Country:alpha-3,GBR,GBR
+2308,Country:country-code,GBR,826
+2309,Country:iso_3166-2,GBR,ISO 3166-2:GB
+2310,Country:region,GBR,Europe
+2311,Country:sub-region,GBR,Northern Europe
+2312,Country:region-code,GBR,150
+2313,Country:sub-region-code,GBR,154
+2314,Country:name,USA,United States of America
+2315,Country:alpha-2,USA,US
+2316,Country:alpha-3,USA,USA
+2317,Country:country-code,USA,840
+2318,Country:iso_3166-2,USA,ISO 3166-2:US
+2319,Country:region,USA,Americas
+2320,Country:sub-region,USA,Northern America
+2321,Country:region-code,USA,019
+2322,Country:sub-region-code,USA,021
+2323,Country:name,UMI,United States Minor Outlying Islands
+2324,Country:alpha-2,UMI,UM
+2325,Country:alpha-3,UMI,UMI
+2326,Country:country-code,UMI,581
+2327,Country:iso_3166-2,UMI,ISO 3166-2:UM
+2328,Country:region,UMI,Oceania
+2329,Country:sub-region,UMI,Micronesia
+2330,Country:region-code,UMI,009
+2331,Country:sub-region-code,UMI,057
+2332,Country:name,URY,Uruguay
+2333,Country:alpha-2,URY,UY
+2334,Country:alpha-3,URY,URY
+2335,Country:country-code,URY,858
+2336,Country:iso_3166-2,URY,ISO 3166-2:UY
+2337,Country:region,URY,Americas
+2338,Country:sub-region,URY,Latin America and the Caribbean
+2339,Country:intermediate-region,URY,South America
+2340,Country:region-code,URY,019
+2341,Country:sub-region-code,URY,419
+2342,Country:intermediate-region-code,URY,005
+2343,Country:name,UZB,Uzbekistan
+2344,Country:alpha-2,UZB,UZ
+2345,Country:alpha-3,UZB,UZB
+2346,Country:country-code,UZB,860
+2347,Country:iso_3166-2,UZB,ISO 3166-2:UZ
+2348,Country:region,UZB,Asia
+2349,Country:sub-region,UZB,Central Asia
+2350,Country:region-code,UZB,142
+2351,Country:sub-region-code,UZB,143
+2352,Country:name,VUT,Vanuatu
+2353,Country:alpha-2,VUT,VU
+2354,Country:alpha-3,VUT,VUT
+2355,Country:country-code,VUT,548
+2356,Country:iso_3166-2,VUT,ISO 3166-2:VU
+2357,Country:region,VUT,Oceania
+2358,Country:sub-region,VUT,Melanesia
+2359,Country:region-code,VUT,009
+2360,Country:sub-region-code,VUT,054
+2361,Country:name,VEN,Venezuela (Bolivarian Republic of)
+2362,Country:alpha-2,VEN,VE
+2363,Country:alpha-3,VEN,VEN
+2364,Country:country-code,VEN,862
+2365,Country:iso_3166-2,VEN,ISO 3166-2:VE
+2366,Country:region,VEN,Americas
+2367,Country:sub-region,VEN,Latin America and the Caribbean
+2368,Country:intermediate-region,VEN,South America
+2369,Country:region-code,VEN,019
+2370,Country:sub-region-code,VEN,419
+2371,Country:intermediate-region-code,VEN,005
+2372,Country:name,VNM,Viet Nam
+2373,Country:alpha-2,VNM,VN
+2374,Country:alpha-3,VNM,VNM
+2375,Country:country-code,VNM,704
+2376,Country:iso_3166-2,VNM,ISO 3166-2:VN
+2377,Country:region,VNM,Asia
+2378,Country:sub-region,VNM,South-eastern Asia
+2379,Country:region-code,VNM,142
+2380,Country:sub-region-code,VNM,035
+2381,Country:name,VGB,Virgin Islands (British)
+2382,Country:alpha-2,VGB,VG
+2383,Country:alpha-3,VGB,VGB
+2384,Country:country-code,VGB,092
+2385,Country:iso_3166-2,VGB,ISO 3166-2:VG
+2386,Country:region,VGB,Americas
+2387,Country:sub-region,VGB,Latin America and the Caribbean
+2388,Country:intermediate-region,VGB,Caribbean
+2389,Country:region-code,VGB,019
+2390,Country:sub-region-code,VGB,419
+2391,Country:intermediate-region-code,VGB,029
+2392,Country:name,VIR,Virgin Islands (U.S.)
+2393,Country:alpha-2,VIR,VI
+2394,Country:alpha-3,VIR,VIR
+2395,Country:country-code,VIR,850
+2396,Country:iso_3166-2,VIR,ISO 3166-2:VI
+2397,Country:region,VIR,Americas
+2398,Country:sub-region,VIR,Latin America and the Caribbean
+2399,Country:intermediate-region,VIR,Caribbean
+2400,Country:region-code,VIR,019
+2401,Country:sub-region-code,VIR,419
+2402,Country:intermediate-region-code,VIR,029
+2403,Country:name,WLF,Wallis and Futuna
+2404,Country:alpha-2,WLF,WF
+2405,Country:alpha-3,WLF,WLF
+2406,Country:country-code,WLF,876
+2407,Country:iso_3166-2,WLF,ISO 3166-2:WF
+2408,Country:region,WLF,Oceania
+2409,Country:sub-region,WLF,Polynesia
+2410,Country:region-code,WLF,009
+2411,Country:sub-region-code,WLF,061
+2412,Country:name,ESH,Western Sahara
+2413,Country:alpha-2,ESH,EH
+2414,Country:alpha-3,ESH,ESH
+2415,Country:country-code,ESH,732
+2416,Country:iso_3166-2,ESH,ISO 3166-2:EH
+2417,Country:region,ESH,Africa
+2418,Country:sub-region,ESH,Northern Africa
+2419,Country:region-code,ESH,002
+2420,Country:sub-region-code,ESH,015
+2421,Country:name,YEM,Yemen
+2422,Country:alpha-2,YEM,YE
+2423,Country:alpha-3,YEM,YEM
+2424,Country:country-code,YEM,887
+2425,Country:iso_3166-2,YEM,ISO 3166-2:YE
+2426,Country:region,YEM,Asia
+2427,Country:sub-region,YEM,Western Asia
+2428,Country:region-code,YEM,142
+2429,Country:sub-region-code,YEM,145
+2430,Country:name,ZMB,Zambia
+2431,Country:alpha-2,ZMB,ZM
+2432,Country:alpha-3,ZMB,ZMB
+2433,Country:country-code,ZMB,894
+2434,Country:iso_3166-2,ZMB,ISO 3166-2:ZM
+2435,Country:region,ZMB,Africa
+2436,Country:sub-region,ZMB,Sub-Saharan Africa
+2437,Country:intermediate-region,ZMB,Eastern Africa
+2438,Country:region-code,ZMB,002
+2439,Country:sub-region-code,ZMB,202
+2440,Country:intermediate-region-code,ZMB,014
+2441,Country:name,ZWE,Zimbabwe
+2442,Country:alpha-2,ZWE,ZW
+2443,Country:alpha-3,ZWE,ZWE
+2444,Country:country-code,ZWE,716
+2445,Country:iso_3166-2,ZWE,ISO 3166-2:ZW
+2446,Country:region,ZWE,Africa
+2447,Country:sub-region,ZWE,Sub-Saharan Africa
+2448,Country:intermediate-region,ZWE,Eastern Africa
+2449,Country:region-code,ZWE,002
+2450,Country:sub-region-code,ZWE,202
+2451,Country:intermediate-region-code,ZWE,014

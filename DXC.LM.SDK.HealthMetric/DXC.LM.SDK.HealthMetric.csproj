@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <LangVersion>default</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="App.Metrics.AspNetCore.Core" Version="3.0.0" />
+    <PackageReference Include="App.Metrics.AspNetCore.Endpoints" Version="3.0.0" />
+    <PackageReference Include="App.Metrics.AspNetCore.Health" Version="2.1.0" />
+    <PackageReference Include="App.Metrics.AspNetCore.Health.Endpoints" Version="2.1.0" />
+    <PackageReference Include="App.Metrics.AspNetCore.Hosting" Version="3.0.0" />
+    <PackageReference Include="App.Metrics.AspNetCore.Reporting" Version="3.0.0" />
+    <PackageReference Include="App.Metrics.AspNetCore.Tracking" Version="3.0.0" />
+    <PackageReference Include="App.Metrics.Extensions.DependencyInjection" Version="3.0.0" />
+    <PackageReference Include="App.Metrics.Extensions.Hosting" Version="3.0.0" />
+    <PackageReference Include="App.Metrics.Formatters.Ascii" Version="3.0.0" />
+    <PackageReference Include="App.Metrics.Formatters.Json" Version="3.0.0" />
+    <PackageReference Include="App.Metrics.Formatters.Prometheus" Version="3.0.0" />
+    <PackageReference Include="App.Metrics.Health.Checks.Http" Version="2.1.0" />
+    <PackageReference Include="App.Metrics.Health.Checks.Network" Version="2.1.0" />
+    <PackageReference Include="App.Metrics.Health.Checks.Process" Version="2.1.0" />
+    <PackageReference Include="App.Metrics.Health.Extensions.Configuration" Version="3.0.0" />
+    <PackageReference Include="App.Metrics.Health.Extensions.DependencyInjection" Version="3.0.0" />
+    <PackageReference Include="App.Metrics.Health.Extensions.Hosting" Version="3.0.0" />
+    <PackageReference Include="App.Metrics.Health.Formatters.Ascii" Version="2.1.0" />
+    <PackageReference Include="App.Metrics.Health.Formatters.Json" Version="2.1.0" />
+    <PackageReference Include="App.Metrics.Health.Reporting.Metrics" Version="2.1.0" />
+    <PackageReference Include="App.Metrics.Health.Reporting.Slack" Version="2.1.0" />
+    <PackageReference Include="App.Metrics.Reporting.Console" Version="3.0.0" />
+    <PackageReference Include="App.Metrics.Reporting.Http" Version="3.0.0" />
+    <PackageReference Include="App.Metrics.Reporting.Socket" Version="3.0.0" />
+    <PackageReference Include="App.Metrics.Reporting.TextFile" Version="3.0.0" />
+    <PackageReference Include="System.ValueTuple" Version="4.5.0" />
+  </ItemGroup>
+
+  <ImportGroup>
+  </ImportGroup>
+</Project>

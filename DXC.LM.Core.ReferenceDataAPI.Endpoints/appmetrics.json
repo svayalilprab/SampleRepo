@@ -1,0 +1,133 @@
+{
+  "MetricsMiddleware": {
+    "UseMetricsActiveRequestMiddleware": true,
+    "UseMetricsErrorTrackingMiddleware": true,
+    "UseMetricsPostAndPutSizeTrackingMiddleware": true,
+    "UseMetricsRequestTrackingMiddleware": true,
+    "UseMetricsOAuth2TrackingMiddleware": true,
+    "UseMetricsApdexTrackingMiddleware": true
+  },
+  "MetricsEndpoints": {
+    "AllEndpointsPort": 9902,
+    "UseMetricsEndpoint": true,
+    "UseMetricsTextEndpoint": true,
+    "UseEnvInfoEndpoint": true
+  },
+  "HealthEndpoints": {
+    "UsePingEndpoint": true,
+    "UseHealthEndpoint": true
+  },
+  "HealthEndpointsOptions": {
+    "HealthEndpointEnabled": true,
+    "PingEndpointEnabled": true,
+    "Timeout": "0:0:10"
+  },
+  "MetricsOptions": {
+    "DefaultContextLabel": "DXC Platform Host",
+    "GlobalTags": {
+      "Environment": "DEVELOPER"
+    },
+    "Enabled": true,
+    "ReportingEnabled": true
+  },
+  "ApplicationMetric": {
+    "Enabled": true,
+    "Tracking": {
+      "Enabled": true,
+      "Options": {
+        "ApdexTrackingEnabled": true,
+        "ApdexTSeconds": 0.1,
+        "IgnoredHttpStatusCodes": [ 404 ],
+        "IgnoredRoutesRegexPatterns": [],
+        "OAuth2TrackingEnabled": true
+      }
+    },
+    "Outputs": {
+      "Enabled": true,
+      "Text": {
+        "Enabled": true
+      },
+      "JSON": {
+        "Enabled": true
+      }
+    },
+    "Reports": {
+      "Enabled": true,
+      "Console": {
+        "Enabled": false
+      },
+      "TextFile": {
+        "Enabled": true
+      }
+    },
+
+    "Endpoints": {
+      "Enabled": true,
+      "Metric": {
+        "Enabled": true,
+        "Formatter": "prometheusText"
+      },
+      "Text": {
+        "Enabled": true
+      },
+      "EnvironmentInfo": {
+        "Enabled": true
+      }
+    }
+  },
+  "HealthCheckMonitoring": {
+    "Enabled": true,
+
+    "Checks": {
+      "Memory": {
+        "Enabled": true,
+        "Private": {
+          "ThresholdMB": 100,
+          "Degraded": true
+        },
+        "Physical": {
+          "ThresholdMB": 512,
+          "Degraded": true
+        },
+        "Virtual": {
+          "ThresholdMB": 200,
+          "Degraded": true
+        }
+      },
+      "Ping": {
+        "Google": {
+          "Endpoint": "www.google.com",
+          "Timeout": "00:00:20",
+          "Degraded": true
+        }
+      },
+      "Http": {
+        "Google": {
+          "Endpoint": "https://www.google.com",
+          "Timeout": "00:00:30",
+          "Degraded": true
+        }
+      }
+    },
+
+    "Reports": {
+      "Enabled": true,
+      "Metric": {
+        "Enabled": true
+      },
+      "Slack": {
+        "Enabled": false,
+        /*: SOF secret items */
+        "WebhookUrl": "",
+        "Channel": "",
+        "EmojiIcon": "",
+        "Username": "",
+        /*: EOF secret items */
+
+        "AlertOnDegradedChecks": true,
+        "ReportInterval": "00:01:00"
+      }
+    }
+  }
+
+}

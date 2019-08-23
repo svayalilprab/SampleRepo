@@ -1,0 +1,45 @@
+# docker-compose -f docker-compose.yml -f docker-compose.developer.yml up
+version: '3.4'
+
+services:
+  
+  grafana.dashboard:
+    env_file: configuration.env
+    ports:
+      - "3000:3000"
+    volumes:
+      - .grafana:/var/lib/grafana
+    links:
+      - prometheus.metric
+      - influxdb.metric
+
+  prometheus.metric:
+    env_file: configuration.env
+    ports:
+      - "9090:9090"
+
+  influxdb.metric:
+    env_file: configuration.env
+    ports:
+      - "8086:8086"
+    volumes:
+      - .influxdb/data:/var/lib/
+  
+  redis.cache:
+    env_file: configuration.env
+    ports:
+      - "6379:6379"
+    volumes:
+      - .redis.cache/data:/data
+
+  mssql.rdbms:
+    env_file: configuration.env
+    ports:
+      - "1433:1433"
+    volumes:
+      - .mssql/data:/var/opt/mssql
+  
+  rabbitmq:
+    ports:
+      - "15672:15672"  # Important: In a production environment your should remove the external port
+      - "5672:5672"    # Important: In a production environment your should remove the external port

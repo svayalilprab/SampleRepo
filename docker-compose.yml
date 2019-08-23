@@ -1,0 +1,20 @@
+version: '3.4'
+services:
+  
+  grafana.dashboard:
+    image: grafana/grafana
+  
+  prometheus.metric:
+    image: prom/prometheus
+  
+  influxdb.metric:
+    image: influxdb 
+
+  redis.cache:
+    image: redis
+  
+  mssql.rdbms:
+    image: microsoft/mssql-server-linux
+
+  rabbitmq:
+    image: rabbitmq
